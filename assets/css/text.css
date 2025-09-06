@@ -1,0 +1,91 @@
+h1 {
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: underline overline yellow;
+    letter-spacing: 8px;
+}
+
+p {
+    text-align: center;
+    letter-spacing: 4px;
+    font: 1em sans-serif;
+}
+
+hr {
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    font-size: 20px;
+}
+
+#judul-utama {
+    background-color: lightgreen;
+}
+
+.mark {
+    background-color: yellow;
+}
+
+p.descendant {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.direct-descendant > p {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+p + p {
+    color: darkred;
+    font-weight: bold;
+}
+
+span + button {
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+    padding: 5px;
+    border-radius: 3px;
+    color: darkviolet;
+}
+
+p.hover:hover {
+    cursor: pointer;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+p + button:hover {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pseudo-class section:nth-last-of-type(2n) {
+    color: darkred;
+    font-weight: bold;
+    background-color: lightyellow;
+}
+
+input:focus {
+    border: 2px solid darkviolet;
+    outline: none;
+    box-shadow: 0 0 5px rgba(138, 43, 226, 0.5);
+}
