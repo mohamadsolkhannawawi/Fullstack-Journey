@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: underline overline yellow;
+    letter-spacing: 8px;
+}
+
+section.flex-container {
+    display: flex;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    background-color: lightgray;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    flex-direction: row-reverse;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
