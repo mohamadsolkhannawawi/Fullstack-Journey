@@ -1,0 +1,17 @@
+div {
+    border: 5px dashed black;
+    padding: 10px;
+    margin: 30px;
+    width: 200px;
+    height: 100px;
+    background-color: lightgray;
+}
+
+div.box1 {
+    border-color: red;
+    background-color: lightcoral;
+    padding: 40px 20px 100px 30px;
+    width: 300px;
+    margin: 20px 50px 100px 100px;
+}
+
