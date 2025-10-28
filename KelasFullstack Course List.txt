@@ -1,0 +1,2451 @@
+Panduan Member
+0. Panduan Member KelasFullstack.id
+Pengenalan Pemrograman
+1. Mengenal Pemrograman computer: 
+Apa itu Pemrograman?	01:30
+Apa Untungnya Menguasai Pemrograman?	02:01
+Apa yang Dimaksud dengan Bahasa Pemrograman?	01:10
+Bahasa Pemrograman Apa yang Harus Dipelajari Terlebih Dahulu?	02:11
+Quiz Mengenal Pemrograman Komputer 1	05:00
+Jenis-jenis Programmer	01:48
+Beragam Peluang Menjadi Programmer	00:46
+Siapa Saja yang Bisa Menjadi Programmer?	00:41
+Apakah Saya Harus Menguasai Matematika untuk Menguasai Pemrograman?	01:59
+Perangkat yang Dibutuhkan untuk Belajar Pemrograman	00:54
+Istilah-istilah Umum dalam Pemrograman	01:52
+Bagaimana Proses Sebuah Program Dibuat?	03:21
+Bagaimana Cara Memulai Belajar Pemrograman?	01:21
+Bagaimana Caranya Supaya Jadi Programmer Hebat?	01:07
+Quiz Mengenal Pemrograman Komputer 2	05:00
+Web Programming	02:47
+Frontend Programming	01:10
+Backend Programming	02:03
+Mobile Programming	00:47
+Android Programming	01:08
+IOS Programming	00:51
+Desktop Programming	01:16
+Hardware/Embedded System Programming	01:30
+Quiz Jalur Menjadi Programmer	05:00
+Algoritma dan Struktur Data	04:49
+Pentingnya Bahasa Inggris	01:06
+Command Line	02:36
+Version Control System	02:39
+Package Manager	03:57
+Security	01:11
+Automatic Testing	02:11
+Quiz Hal yang Wajib Dikuasai Programmer	05:00
+
+2. Algoritma dan Pemrograman Dasar: 
+Pendahuluan Algoritma Pemrograman	02:47
+Karakteristik Algoritma	02:46
+Bahasa Pemrograman	08:14
+Struktur Dasar Algoritma	02:32
+Variabel dan Tipe Data	04:20
+Mengenal Operator	02:20
+Nilai Variabel	02:47
+Kuis - Algoritma dan Pemrograman Dasar - Algoritma
+Mengenal Pseudocode	03:54
+Mengenali Kondisi Percabangan/Pemilihan	03:09
+Struktur Percabangan/Pemilihan	05:08
+Mengenali Pola Perulangan	03:04
+Struktur Perulangan	07:49
+Prosedur	03:54
+Fungsi	05:30
+Kuis - Algoritma dan Pemrograman Dasar - Struktur Algoritma
+Mengenal Struktur Data Array/Senarai	04:42
+Mengenal Struktur Data Linked List	02:18
+Mengenal Struktur Data Stack dan Queue	04:21
+Mengenal Struktur Data Binary Tree dan Graph	04:50
+Kuis - Algoritma dan Pemrograman Dasar - Struktur Data
+Algoritma pada Pengurutan Data	05:29
+Pengurutan Data dengan Teknik Selection Sort	05:22
+Pengurutan Data dengan Teknik Insertion Sort	03:53
+Algoritma pada Pencarian Data	07:00
+Algoritma Rekursif	05:49
+Kuis - Algoritma dan Pemrograman Dasar - Penerapan Algoritma
+
+3. Mahir menggunakan Text Editor buat Pemula: 
+Apa itu IDE dan Text editor
+Installasi Visual Studio Code di Window	05:00
+Menjelajahi Fitur Visual Studio Code	05:00
+Extension - Program Untuk Mempermudah Proses Development	05:00
+
+4. Belajar Menggunakan Terminal atau CMD untuk Development: 
+Perkenalan Kenapa Kamu Perlu Bisa Pake Terminal	03:10
+Alasan Kenapa Perlu Menguasai Terminal	07:24
+Menginstall Bash Di Windows	04:46
+Mengenal Perintah Ls Dan Pwd	05:13
+Mengenal Perintah Cd Untuk Berpindah Folder	02:51
+Mengenal Istilah Absolute Path Dan Relative Path	05:48
+Membuat Folder Dengan Perintah Mkdir	04:00
+Mengenal Istilah Flags Atau Paramter Pada Cli	07:45
+Membuat File Dengan Perintah Touch	03:27
+Menghapus File Dan Folder Dengan Perintah Rm
+
+5. Belajar Git Pemula: 
+GIT Pendahuluan	11:40
+GIT Panduan Instalasi GIT	03:38
+GIT Macam-macam Perintah GIT Dasar	02:44
+GIT Menginisialisasi project dengan git Init dan mencoba clone	06:12
+GIT Menambahkan file baru, dan melakukan git add	03:47
+GIT Reset perubahan file dengan git reset	01:54
+GIT Melakukan commit, mempraktekan diff dan log	06:51
+GIT Melakukan unggah file dengan git push	08:52
+GIT Melakukan unduh file dengan git pull	03:16
+GIT Bermain main dengan fetch dan branch	05:21
+GIT Membuat branch baru, melakukan checkout	07:31
+GIT Menyatukan branch satu dengan lainnya, git merge	03:44
+GIT Menyelesaikan Konflik pada GIT	07:23
+GIT Menandai milestone project dengan git tag	04:21
+
+6. Belajar GIT Lanjutan: 
+Pengenalan GIT	04:15
+Repository dan Menambahkan File	12:17
+Mengubah File dan Git Diff	10:16
+Melihat History dengan Git Log	08:32
+Membatalkan Perubahan dengan Git Restore	03:06
+Git Reset dan Git Restore Staged	04:14
+Kembali ke Commit Sebelumnya dengan Git Reset	05:39
+Branch dan Merge	14:41
+Merevisi Commit dengan Git Revert	08:31
+Memulai dan Membuat Repository di Github	10:04
+Git Clone dan Git Push	05:18
+Github Pull Request	09:31
+Aturan Menulis Commit	06:50
+Mengenal Gitlab	05:56
+
+Front End Basic
+7. Belajar Dasar HTML: 
+Apa itu internet	04:36
+Hubungannya Web dengan Internet	07:01
+Pernah denger Frontend dan Backend?	06:16
+Persiapan Software yang Dibutuhkan	07:48
+Pengenalan HTML	11:04
+Membuat File HTML Pertama Kali	09:56
+Membuat Format Paragraf di HTML	06:14
+Membuat Format Heading atau Judul di HTML	06:43
+Mengenal Kerangka Utuh Dokumen HTML	07:56
+Membuat List di dalam HTML	08:10
+Membuat Element Link di HTML untuk Pindah Halaman	07:29
+Memuat File Gambar di HTML	06:49
+Mengenal Element Komentar sebagai Catatan di HTML	05:01
+Antara Block dan Inline - div dan span	14:27
+Element hr br sup sub yang Mungkin Perlu Kamu Tahu	07:37
+Mengenal Entity Code	05:24
+Mengenal Apa itu Semantic Markup	07:45
+Latihan Menggunakan Semantic Element	14:12
+Mengenal Tabel dan Sejarahnya di HTML	05:18
+Membuat Tabel Sederhana di HTML	11:25
+Semantic Table thead tbody tfoot	06:04
+Menggabungkan Kolom dan Barus di Tabel HTML	13:29
+Mengenal Form untuk Isian Formulir	08:50
+Membuat Beberapa Inputan di dalam Form	05:50
+Fungsi Label untuk Judul Inputan	09:40
+Fungsi Button di dalam Form	06:42
+Mengenal Attribute Name di Input HTML	09:24
+Mengenal Radio Button Checkbox dan Select untuk Pilihan Ganda	12:45
+Mengenal Input Text Area	05:42
+Membuat Validasi Inputan di dalam Form	05:01
+
+8. Belajar Dasar CSS: 
+Apa itu CSS	06:53
+CSS itu luas, tapi Jangan Khawatir!	05:33
+Cara menggunakan CSS dengan Benar di HTML	14:33
+Mengenal Properti Color & Background Color	08:29
+Sistem Warna - RGB dan Sistem Warna - Hexadesimal	05:10
+Jangan Lupa, Titik Koma!	02:29
+Mengenal Properti Text Pada Umumnya	17:39
+Mengenal Ukuran pada CSS dengan Font	05:06
+Selector Menggunakan Element HTML	08:50
+Selector Menggunakan Attribute ID	06:24
+Selector Menggunakan Attribute Class	04:55
+Mengenal Descendant Selector	07:07
+Mengenal Direct Descendant dan Ajdacent Selector	04:57
+Mengenal Attribute Selector	04:58
+Mengenal Pseudo Classes	09:50
+Mengenal Pseudo Elements	06:40
+Mengenal Bagian Box Model pada Element	07:54
+Mengenal properti border pada css	07:01
+Mengenal properti padding pada css	06:19
+Mengenal properti margin pada css	05:42
+Mengenal properti display	10:52
+Apa itu flexbox	03:59
+Mengatur Urutan Element Dengan Flex Direction	07:45
+Membagi Rata Jarak Horizontal Dengan Justify Content	03:40
+Menampilkan Element Dengan Ukuran Sebenaranya Pada Flex	05:35
+Mengatur Perataan Secara Vertikal Dengan Align Item	07:01
+Mengatur Jarak Cross Axis dengan Align Content Dan Align Self	08:54
+Mengubah ukuran Element Flex	08:52
+Flex dengan sintaks yang lebih ringkas	06:31
+Pengetahuan Responsinve Design dan Media Query	08:00
+Memulai Kehebatan Media Query	11:31
+Membuat Responsive Navigation	12:29
+Studi Kasus Membuat Tabel Pricing Part 1	05:59
+Studi Kasus Membuat Tabel Pricing Part 2	06:16
+Studi Kasus Membuat Tabel Pricing Part 3	08:07
+Studi Kasus Membuat Tabel Pricing Part 4	06:38
+Studi Kasus Membuat Tabel Pricing Part 5	04:10
+
+9. Belajar CSS Framework Bootstrap 5: 
+Mengenal Bootstrap	07:15
+Cara Pakai Bootstrap dan Memahami Containers	09:01
+Component Button	11:02
+Typography dan Kebutuhan lainnya yg bisa dimanfaatkan	10:07
+Componen lencana, alert dan menggabungkan Button dengan bootstrap	09:43
+Mengenal Sistem Grid Bootstrap dan Manfaatnya	09:25
+Responsive design dengan Bootstrap	09:26
+Fungsi yang bermanfaat pada Grid	08:01
+Mendesain Form dengan Bootstrap	12:30
+Membuat Navbars dengan Bootstrap	12:44
+Fungsi lain yang dimiliki Bootstrap	07:09
+Kita campurkan fungsi-fungsi yang ada di dalam Boostrap pada Halaman	07:46
+Studi Kasus Museum Arkeologi 1	06:24
+Studi Kasus Museum Arkeologi 2	10:07
+Studi Kasus Museum Arkeologi 3	11:00
+Studi Kasus Museum Arkeologi 4	11:59
+Studi Kasus Museum Arkeologi 5	08:18
+
+10. Belajar JavaScript: 
+Tipe Data Primitif Dan Developer Tools Console	06:11
+Tipe Data Numbers	06:34
+Apa Itu Nilai Nan	03:22
+Variabel Dan Kata Kunci Let	07:23
+Memperbarui Nilai Number Di Dalam Variabel	04:09
+Kata Kunci Const Dan Var Untuk Variabel	04:59
+Tipe Data Booleani	03:31
+Tips Memberikan Nama Variabel Seperti Anak Sendiri	05:22
+Mengenal Tipe Data String	05:49
+Penjelasan Index Pada String Dan Panjang Karakter	08:30
+Method-Method Javascript Yang Memudahkan Hidup Kita	04:46
+Method Dan Argument (Parameter)	05:20
+Template Literals Save Your Life	05:47
+Mengenal Null Dan Undefined	02:54
+Mengenal Object Math Dan Angka Acak	03:51
+Bagaimana Membuat Keputusan Di Dalam Code	03:10
+Operator Pembanding	04:41
+Perbedaan Jumlah Sama Dengan Dua Dan Tiga	06:19
+Console Alert Dan Prompt	04:27
+Menjalankan Javascript Di Dalam File	06:55
+If Statement Pertama Yg Kamu Pelajari	06:42
+Else If Statement Makin Banyak Pilihan	05:43
+Else Adalah Pilihan Terakhir	04:48
+Cek Kondisi Berlapis Lebih Aman	07:31
+Operator Logic And	05:39
+Operator Logic Or	04:27
+Operator Logic Not	02:44
+Switch Sebagai Alternatif If Statement	05:03
+Mengenal Struktur Data Array	08:12
+Mendapatkan Nilai Dengan Index Dan Mengubah Isinya	07:38
+Method Array Push Dan Pop	06:25
+Method Array Unshift Dan Shift	04:22
+Beberapa Method Array Yang Sering Digunakan	08:20
+Beberapa Method Array Yang Sering Digunakan Lagi	08:32
+Mengubah Nilai Const Dengan Array	04:04
+Array Multidimensi Atau Nested Array	04:59
+Apa Itu Object	04:47
+Cara Membuat Struktur Data Object	06:17
+Cara Memanggil Data Dari Object	05:18
+Cara Membuat Object Berjalan	03:40
+Cara Memanggil Object Di Dalam Array	03:50
+Pengenalan Perulangan	06:47
+Contoh Lain Perulangan For	06:24
+Awas Perulangan Tanpa Henti	02:46
+Mendapatkan Data Dari Array Dengan Perulangan	04:00
+Pengenalan Nested Loop	06:59
+Mendapatkan Data Dari Nested Array Dengan Nested Loop	05:43
+Perulangan Menggunakan Perintah While	04:12
+Kata Kunci Break Untuk Memberhentikan Perulangan	06:04
+Membuat Game Tebak Tebakkan Angka Dengan While	07:44
+Cara Elegan Melakukan Perulangan Pada Array For Of	05:43
+Melakukan Perulangan Pada Object Dengan Elegan For In	05:38
+Pengenalan Function Di Javascript	06:32
+Mendefinisikan Dan Menjalankan Function	07:08
+Argument Dan Parameter Dalam Function	06:56
+Multiple Parameter Dan Argument	05:42
+Statement Return Pada Function	08:28
+Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup	09:13
+Blocked Scope Variabel	09:06
+Lexical Scope	05:01
+Function Expressions	05:28
+Function Sebagai Argument Function Lain	05:09
+Function Bernilai Balik Function	05:27
+Definisi Sebuah Method	05:10
+This Adalah Keyword Sakti	04:37
+Try And Catch Adalah Penyelamat	07:31
+Foreach Method	09:23
+Map Method	06:45
+Sebelum Lanjut Kenalan Dengan Arrow Function	06:26
+Return Secara Implisit Dari Arrow Function	04:23
+Memahami Settimeout Dan Setinterval	08:01
+Memiilh Data Tertentu Di Dalam Array Dengan Filter Method	09:38
+Menentukan Benar Atau Salah Pada Array Dengan Every Dan Some Method	05:49
+Mendapatkan Satu Nilai Sesuai Kondisi Dari Sebuah Array Dengan Reduce	12:41
+Object This Di Dalam Arrow Function Mengarah Pada Object Global Window	04:49
+Mengatur Default Value Pada Function	08:24
+Mengubah Array Atau Object Menjadi Deret Value Argument Function	04:20
+Menggabungkan Nilai Array Dengan Array Lagi	05:24
+Menggabungkan Property Object Dengan Object Lainnya	03:31
+Malas Bikin Parameter Banyak Bisa Pakai Rest Param	07:38
+Bongkar Element Array Ke Masing-Masing Variabel Dengan Mudah-	03:26
+Bongkar Juga Properti Object Ke Masing-Masing Variabel	05:43
+Bongkar Properti Object Bisa Dilakukan Di Dalam Function	04:48
+
+11. Belajar Konsep OOP di JavaScript: 
+Perkenalan Tentang Prototype Di Javascript	13:06
+Membuat Object Dengan Factory Function	08:16
+Membuat Object Dengan Constructor Function	15:33
+Membuat Object Dengan Class	14:18
+Contoh Lanjut Object Dengan Class	07:43
+Penjelasan Oop, Extend Dan Fungsi Super	11:43
+
+12. Belajar JavaScript Asynchronous: 
+Mengenal Call Stack Function	11:00
+Faktanya Javascript Itu Single Thread	12:17
+Callback Hell Di Javascript Bikin Serem Dibacanya	08:49
+Latihan Request Pakai Callback Function	10:33
+Latihan Request Pakai Promise	09:53
+Cara Benar Menggunakan Fungsi Promise	05:31
+Cara Membuat Promise	07:46
+Fungsi Async Keyword	07:25
+Fungsi Await Keyword	07:34
+Mengelola Kondisi Error Dengan Async Await	04:48
+
+13. Belajar JavaScript DOM: 
+Apa Itu Dom	04:34
+Melihat Isi Document Object Model	09:17
+Mendapatkan Element Html Berdasarkan Id	09:24
+Mendapatkan Element Html Berdasarkan Tag Dan Class	11:09
+Lebih Mudah Memilih Element Dengan Menggunakan Queryselector	07:43
+Memahami Innerthtml, Innertext Dan Textcontent	12:35
+Mendapatkan Attribute Yang Dimiliki Element Html	06:05
+Melakukan Styling Dengan Javascript Dom	08:03
+Memanfaatkan Classlist Untuk Styling Dengan Dom	08:04
+Menjelajahi Element Parent, Child Dan Sibling	10:20
+Memahami Append Dan Appendchild	11:37
+Memahami Remove Dan Removechild	04:41
+Latihan Memanggil Pokemon Dengan Dom	10:18
+Pengantar Event Dom	05:53
+Menjalankan Event Pada Inline Element	09:48
+Menjalankan Event Melalui Property Dom	07:15
+Mengenal Fungsi Addeventlistener	07:32
+Latihan Addeventlistener Untuk Generate Color	07:23
+Manfaatkan Keyword This Pada Event Dom	07:44
+Belajar Keyboard Event Dan Mengenal Object Dalam Event	12:14
+Mengenal Event Preventdefault	07:11
+Praktek Input Realtime Dengan Event Dan Dom	06:55
+Event Input Dan Change Pada Form	06:22
+Mengenal Event Bubbling	05:44
+Mengenal Event Delegation	07:14
+Latihan Dom Membuat Papan Skor Bag 1	11:34
+Latihan Dom Membuat Papan Skor Bag 2	06:44
+Latihan Dom Membuat Papan Skor Bag 3	07:56
+Latihan Dom Membuat Papan Skor Bag 4	08:02
+
+14. Belajar AJAX dan Web API: 
+Pengenalan Ajax Request	07:06
+Mengenal Api	07:35
+Apa Itu Json	10:35
+Lebih Mudah Akses Web Api Dengan Postman Dan Hoppscotch	06:24
+Mengenal Http Verb Atau Http Method	03:36
+Penjelasan Kode Angka Dari Respon Http	06:51
+Mengenal Base Url Dan Query String Di Web Api	09:10
+Mengenal Data Di Http Header	04:42
+Melakukan Request Dengan Xmlhttprequest	06:19
+Melakukan Request Dengan Fetch	10:35
+Melakukan Request Dengan Library Axios	07:03
+Menambahkan Data Headers Di Request Menggunakan Axios	08:39
+Menampilkan Daftar Acara Tv Dengan Axios	12:28
+
+15. Developer & Desain: Membangun Dasar UI/UX yang Solid:
+Definisi UIUX	03:28
+Perbedaan Peran UIUX	04:17
+Pentingnya UIUX untuk Programmer	04:10
+Tools UIUX Designer	05:17
+Keunggulan Figma dibanding software lain	02:46
+Pengenalan Figma	11:46
+Plugin & Community Files untuk Figma	08:23
+Layouting, Warna dan Typography	21:16
+Responsive Design	04:59
+Mengaplikasikan Layout & Komponen ke kebutuhan coding	05:18
+Slicing Design ke Coding	05:57
+Design Handover yang proper dari Designer ke Programmer	11:59
+Prinsip UX User Centered Design	04:40
+Prinsip UX Konsistensi dalam Design	02:49
+Prinsip UX Feedback dan Responsiveness	03:18
+Prinsip UX Pengujian Usabilty Sederhana	06:14
+Best Practices Developer & UIUX Designer	05:41
+
+16. Praktek Web Design dengan Figma: 
+Web Design Figma & Live code dengan Mentor  1:49:39 Figma mengubah cara para desainer bekerja, memungkinkan kolaborasi real-time yang super efisien. Anda akan melihat bagaimana tim bisa bekerja bersama dalam satu file, menghemat waktu dan menyederhanakan alur kerja. Di kelas ini, kita akan memanfaatkan keunggulan itu.
+
+Mari kita ubah ide-ide kreatif Anda menjadi desain visual yang nyata dan berfungsi. Bersiaplah untuk mendapatkan pengalaman langsung yang tak hanya menambah skill, tapi juga membuka pintu ke berbagai peluang karier di industri digital.
+
+17. Belajar UI/UX Web dengan Figma - Studi Kasus : Re-design Web DPR RI: 2;27:19
+
+Front End Intermediate
+18. Membangun Frontend dengan Jquery, Library Js Legendaris: 
+Pendahuluan JQuery	07:57
+Menggunakan JQuery Selector	08:40
+Bekerja dengan DOM di JQuery	07:41
+Memanipulasi DOM di JQuery	17:20
+Quiz Basic jQuery	05:00
+Event Handler di JQuery	08:39
+Fitur Effect di JQuery	09:33
+Manipulasi CSS dalam JQuery	08:02
+Menggunakan Library untuk JQuery	16:13
+Quiz Basic jQuery 2	05:00
+
+19. Membuat Landing Page Website dengan Bootstrap 4:
+Pengenalan Landing Page	03:10
+Persiapan	09:24
+Build Nav	14:37
+Membuat Header	16:57
+Membuat Menu Service Bag1	10:37
+Membuat Menu Service Bag2	09:50
+Membuat Menu Service Bag3	05:14
+Kuis - Membuat Landing Page Website dengan Bootstrap 4 - 1	
+Membuat Menu Product Bag1	04:55
+Membuat Menu Product Bag2	12:07
+Membangun About Us 1	07:20
+Membangun About Us Bag2	09:58
+Membangun Menu Contact Us	04:23
+Membangun Footer	05:19
+Penutup	07:04
+Kuis - Membuat Landing Page Website dengan Bootstrap 4 - 2	
+
+20.  Tailwind Dasar - Desain Web Kilat jaman Sekarang:
+Bosankah dengan CSS yang rumit dan makan waktu? Live course Tailwind CSS dalam 120 Menit ini akan mengubah cara Anda mendesain web! Dalam waktu singkat, kamu akan menguasai framework CSS yang revolusioner ini dan mulai membangun antarmuka pengguna (UI) yang responsif dan indah dengan kecepatan luar biasa. Cocok untuk pemula yang ingin hasil cepat atau pengembang yang ingin mempercepat alur kerja desain mereka. 2:00:20
+
+21. Membuat Halaman Website Portofolio Menggunakan Tailwind CSS: 
+Pendahuluan	05:28
+Kerangka Layout	11:38
+Membangun Navigasi Bar	17:05
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 1
+About Me Bagian 1	14:00
+About Me Bagian 2	07:25
+About Me Bagian 3	13:39
+Finishing About Me	05:59
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 2
+Membangun Menu Skill Framework 1	07:32
+Membangun Menu Skill Framework 2	12:34
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 3
+Membangun Menu Recent Work	10:26
+Membangun Menu Recent Work 2	12:42
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 4
+Membangun Contact Me	19:42
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 5
+Footer End	10:18
+Kuis - Membuat Halaman Website Portofolio Menggunakan Tailwind CSS - Topik 6
+
+22. Membuat Website E-Wallet dengan Tailwind - Slicing: Pendahuluan	02:53
+Setup Awal	17:01
+Custom Style	05:56
+Component - App Bar	08:15
+Component - Nav Bar	09:37
+Component - Button	17:53
+Component - Input Text	21:03
+Component - Card List Item	21:22
+Page - Splash	07:16
+Page - Auth	06:07
+Page - Dashboard	18:52
+Page - Transaction Status	16:24
+Page - Transaction History	06:54
+Page - Account	09:08
+Page - Account Settings	13:46
+Page - Withdrawal	08:15
+Show Hide Balance	07:00
+Modal Top Up	22:24
+Modal Transfer	35:31
+Penutup	02:41
+
+23. Membuat Website Crowd Funding dengan Tailwind - Slicing: 
+Environment Preparation	04:47
+Assets Preparation	05:40
+Install Tailwindcss, import custom Font & Color	15:18
+Home (Header)	14:0
+Home (Banner & Background)	14:17
+Home (Categories)	11:28
+Home (List Article)	19:0
+Home (Bottom Navigation)	16:08
+Home (Review & Koreksi)	07:42
+Kategori	21:27
+Kategori Kemanusiaan	06:20
+Detail Post (Part 1)	20:41
+Detail Post (Part 2)	30:12
+Cerita Donasi	09:08
+Donasi	28:08
+Konfirmasi Donasi	15:12
+Pembayaran	22:24
+Pembayaran Berhasil	08:38
+Riwayat	14:04
+Before Login	20:29
+Akun	06:45
+Profile	14:59
+Edit Profile	14:56
+Login	12:23
+Ubah Kata Sandi	04:42
+Lupa Kata Sandi	02:58
+Daftar	03:11
+faq	08:18
+sk-tentang	04:25
+
+24. Pengenalan SASS Pada CSS:
+Apa Itu Css Preprocessor	02:56
+Berkenalan Dengan Sass Less Stylus	04:53
+Instalasi Sass	05:01
+Sass Values	07:29
+Membuat Style Dasar	13:50
+Membuat Navigasi Bar	10:50
+Kuis - Pengenalan SASS Pada CSS - 1	
+Membuat Header	16:03
+Membuat Section About	13:13
+Membuat Section Product	19:56
+Perbaikan Tampilan Website	09:19
+Membuat-Section-Contact-Us	11:16
+Membangun Footer	05:39
+Kuis - Pengenalan SASS Pada CSS - 2
+
+25. Membangun Website Modern dengan Vue.js 2: 
+Perkenalan Materi	02:06
+Cara Install VueJS	08:44
+Mengenal Reactive Data pada VueJS	05:40
+Cara Binding Data ke dalam Attribute HTML	04:20
+Membuat Perulangan di dalam VueJS	05:09
+Fungsi Kondisi di dalam VueJS	05:42
+Menangani Input Data dari User	07:14
+Mengenal Lifecyle Hooks VueJS	07:52
+Mengenal Event dan Method di dalam VueJS	08:21
+Kuis - Belajar Cepat Vue.js - Topik 1	
+Interpolation Template	06:04
+Berbagai Cara Penggunaan Data Binding	06:06
+Mengenal Computed Property	04:23
+Perbedaan Methods dan Computed Property	07:47
+Kuis - Belajar Cepat Vue.js - Topik 2
+Binding Attribute dengan Array dan Object	06:54
+Styling Secara Terprogram dengan Vue	07:48
+Membuat Toggle UI dengan Computed Property	05:16
+Membuat Efek Transisi dengan Vuejs	05:57
+Menggunakan Animation Library	04:35
+Memahami Transition Group pada Vuejs	05:43
+Mengatur Style dengan JavaScript	08:56
+Kuis - Belajar Cepat Vue.js - Topik 3
+Mengenal Properti Filters	05:19
+Memuat Data pada Toggle Element	07:11
+Pengkategorian Data Array	09:05
+Membuat Fungsi Total dengan Computed	06:35
+Delete Item dalam Array	08:46
+Kuis - Belajar Cepat Vue.js - Topik 4
+Membuat Component Sederhana di Vue	06:45
+Menggunakan Props pada Vuejs	05:22
+Menambahkan Default Value pada Props	04:34
+Membuat Component Lebih Kompleks	09:31
+Menggunakan Event Method dari Parent Component	06:38
+Kuis - Belajar Cepat Vue.js - Topik 5
+Installasi Project dengan Vue CLI	10:31
+Memahami Struktur Folder Vue CLI	12:41
+Cara Install Modul di Vuejs	09:15
+Implementasi Modul di Vuejs	06:51
+Kuis - Belajar Cepat Vue.js - Topik 6
+Membuat Component Price	05:47
+Membuat Component ProductList	13:03
+Membuat Method Add Item	06:26
+Membuat Price Slider Component	10:09
+Membuat Navbar Component	10:30
+Membuat Fungsi Delete Item	04:11
+Kuis - Belajar Cepat Vue.js - Topik 7
+Mengubah Struktur Project	10:02
+Membuat Checkout Component	09:21
+Menggunakan VueRouter untuk Components	06:35
+Membuat Link Antar Component	04:33
+Kuis - Belajar Cepat Vue.js - Topik 8	
+
+26. Membangun Website Reaktif dengan Vue.js 3:
+Mengenal Vue.Js	04:55
+Software Dan Tools Yang Diperlukan	05:35
+Membuat Template Counter	05:21
+Mempercantik Halaman Counter	05:30
+Buat Project Counter Ini Agar Berfungsi	06:30
+Cara Install Vue Dan Pelajari Konfigurasinya	05:30
+Jelajahi Struktur Project Vue 3 Dan Cara Kerjanya	07:34
+Membangun Kembali Project Counter Dengan Vue	08:09
+Perbandingan Menggunakan Vanilla Javascript Dan Vue	06:11
+Mengenal Options Api Dan Composition Api	06:23
+Membuat Counter App Versi Options Api	04:53
+Membuat Counter App Versi Composition Api	05:47
+Persiapan Project Membahas Vue Directive	02:45
+Membuat Ui Memo Bagian Header	06:15
+Membuat Ui Bagian Memo	04:45
+Membuat Ui Bagian Form Modal	06:35
+Menampilkan Dan Menyembunyikan Form Dengan Directive If	05:29
+Menangkap Data Yang Diinputkan Secara Realtime Dengan Directive Model	03:28
+Membuat Event Handler Untuk Menyimpan Data	05:57
+Menampikan Daftar Data Menggunakan Perulangan Directive For	05:58
+Penting Menggunakan Attribute Key Untuk Perulangan	03:35
+Membuat Contoh Form Validasi Dan Error Handlernya	04:37
+Membuat Event Handler Untuk Hapus Data By Id	04:31
+Persiapan Project Untuk Pelajari Component Dan Props	05:50
+Membuat Ui Daftar Quiz	05:47
+Menampilkan Daftar Data Dari File Json	05:41
+Menjalankan Logic Berdasarkan Perubahan State Atau Data Dengan Watch	04:46
+Memisahkan Element Ke Component Sendiri	05:37
+Mengirimkan Data Antara Component Dengan Props	05:35
+Persiapan Pelajari Multiple Page Di Project Vue	05:19
+Menentukan Path Url Untuk View Dengan Vue Router	06:25
+Menggunakan Routerlink Untuk Berpindah Halaman	06:05
+Memberikan Styling Pada Routerlink Active Yang Dipilih	02:54
+Membuka Halaman Dengan Url Path Dinamis	07:12
+Ekstrak Dan Mendapatkan Data Dari Route	05:30
+Membuat Nested Component Dengan Router	05:11
+Mengubah Route Melalui Kode Program	06:03
+Mengatasi Halaman Tidak Ditemukan	05:54
+Cara Melakukan Redirect Halaman	02:32
+Implementasi Vue Router Di Project Quiz	05:49
+Mengarahkan Ke Halaman Daftar Pertanyaan	03:56
+Mendesain Halaman Quiz	09:19
+Kenapa Harus Memisahkan Component Pada Halaman Quiz	05:06
+Menampilkan Daftar Pertanyaan Dan Pilihan Ganda	06:47
+Membuat Dinamis Nomor Halaman Pertanyaan	06:50
+Mendapatkan Nilai Dari Perubahan State Dengan Computed	04:05
+Membuat Bar Progress Menjadi Dinamis	04:14
+Cara Mengirimkan Data Dari Child Component Ke Parent Component	06:45
+Menampilkan Nilai Akhir Dari Quiz	06:40
+
+27. Belajar Animasi Di Vue.js 3: 
+Mengenal Transition Component Dan Menggunakannya	07:08
+Membuat Animasi Transisi Masuk Dan Transisi Keluar	03:22
+Menggunakan Kondisi Dalam Komponen Transition	03:34
+Persiapan Buat Todo App Dengan Animasi	05:14
+Membuat Fungsi Create Read Delete Data Task	04:58
+Membuat Transisi Masuk Dengan Transition group	03:11
+Membuat Animasi Transisi Keluar Dengan Transitiongroup Dan Transisi Move	04:10
+Membuat Animasi Transisi Antar Route	05:42
+Menggunakan Lifecycle Dari Transition Component	05:54
+Mengubah Style Animasi Di Lifecycle Hook	05:44
+
+28. Belajar Fetch API Dengan Vue.js 3:
+Persiapan Project	05:17
+Manfaat Memisahkan Element Ke Masing-Masing Component	05:40
+Mengenal Lifecycle Hook Vue.Js	05:24
+Mengenal Lifecycle Onbeforemount Dan Onmount	05:10
+Mengenal Lifecycle Onbeforeupdate Dan Onupdated	04:21
+Mengenal Lifecycle Onbeforeunmount Dan Onunmounted	04:19
+Cara Membuat Restful API Tanpa Backend	07:46
+Cara Fetch Data Dengan Axios Dan Async Component	06:03
+Mengenal Component Suspense Dan Cara Kerjanya	05:09
+Menampilkan Data Product Ke Component Melalui Props	05:03
+Persiapan Fetch Data Menggunakan Pagination	06:59
+Membuat Fungsi Pagination Bekerja Dengan Emit	07:12
+Implementasi Lifecycle Untuk Fetch Data Dari API	04:18
+Cara Lain Untuk Menampilkan UI Loading	05:16
+Menjalankan Logic Lebih Praktis Dengan Watcheffect	03:53
+Cara Menampilkan Halaman Detail Product	07:16
+Membuat Fungsi Hapus Data Product Dari API	04:37
+Persiapan Form Untuk Create Dan Update Product	04:45
+Membuat Fungsi Create Data Melalui API	05:34
+Membuat Fungsi Update Data Melalui API	07:31
+
+29. Belajar State Management Vue.js 3 dengan Pinia:
+Cara Kerja State Management Dengan Ref	07:34
+Menyimpan Nilai State Dengan Reactive	03:57
+Perbedaan Menggunakan Ref Dan Reactive	06:56
+Membuat Skenario State Pada Component Bersarang	04:23
+Kondisi Prop Drilling Yang Tidak Disarankan	05:00
+Cara Berbagi State Data Dengan Provide Dan Inject	04:27
+Memisahkan State Dengan Composable	07:01
+Menyimpan Global State Dengan Pinia	05:21
+Cara Menggunakan Fungsi Dan Mengubah Nilai Di Pinia	07:14
+
+30. Belajar Vue.js 3 dan Firebase Studi Kasus Blog:
+Gambaran Composition API	05:00
+Setup Project Dan Cara Kerja Composition API	05:00
+Membuat Data pada Composition API	07:20
+Memanfaatkan Ref Untuk Data Reactive	05:00
+Membandingkan Fungsi Ref Dengan Reactive	05:00
+Manipulasi Data Dengan Computed Property	05:00
+Memantau Perubahan Data Dengan Watch	05:00
+Menggunakan Props Di Composition API	05:00
+Implementasi Lifecycle Hooks Vue 3	05:00
+Kuis - Belajar Vue 3 dan Firebase Studi Kasus Blog - Topik 1	
+Membuat Fake REST API dan Mencoba Async Await	05:00
+Membuat dan Memanggil Fungsi di Luar Component	05:00
+Membuat Fungsi untuk Memanggil Single Data Post	05:00
+Mempelajari Promise Async Await untuk Menampilkan Loading	05:00
+Membuat Halaman Create Post dan Input Tags	05:00
+Membuat Fungsi Create Post untuk Menambah Data Baru	05:00
+Kuis - Belajar Vue 3 dan Firebase Studi Kasus Blog - Topik 2
+Menginstall Library Pihak Ketiga Untuk Template Blog	05:00
+Integrasi Vue dengan Template Bootstrap	05:00
+Desain Halaman ShowPost	05:00
+Mempercantik Halaman Create Post	05:00
+Menampilkan Data Post Berdasarkan Tag	05:00
+Kuis - Belajar Vue 3 dan Firebase Studi Kasus Blog - Topik 3
+Membuat Project Layanan Firebase	05:00
+Konfigurasi Sdk Firebase Di Vue Cli	05:00
+Membuat Collection Di Firestore	05:00
+Menampilkan Seluruh Data Collection Firestore Dalam Vue	05:00
+Menampilkan Satu Data Collection Dalam Vue	05:12
+Menambah Data Collection Dari Vue	05:00
+Menghapus Collection Dari Vue	05:00
+Kuis - Belajar Vue 3 dan Firebase Studi Kasus Blog - Topik 4
+
+31. Belajar React.js Fundamental: 
+Introduction - Instalasi	09:54
+Pengenalan Project React	12:26
+Pengenalan Component Dasar	05:14
+JSX	08:04
+Props pada Child Component	06:43
+Blog sederhana menggunakan JSON	09:20
+Fitur Filter Data dan Pengenalan useState	11:34
+Mengembalikan Value ke Parent melalui Props	11:10
+Conditional Rendering	05:14
+Conditional Rendering 2	08:02
+onClick Methods	08:52
+Lifecycle dan useEffect	11:25
+Fetch API dengan useEffect	06:29
+Multiple useEffect	03:40
+Dasar State Management dengan useContext	12:17
+Menginstall React Router	09:35
+Halaman About	03:12
+Layouting dan Children Routes	10:26
+Halaman Blog	07:48
+Dynamic Parameter Route dan Menampilkan Artikel	12:56
+React Router Data Loader	09:37
+Error Page	03:47
+Dynamic Style untuk NavLink	09:22
+
+32. React.js 101 - Membuat dan Menggunakan Komponen dengan Berbagai Studi Kasus:
+Mengenal React.Js Dengan Membuat Quote Generator	10:51
+Membandingkan Yang Sudah Dibuat Di React.Js Dengan Vanilla Javascript	05:39
+Jadi React.Js Itu Apa	08:42
+Persiapan Untuk Membuat Project React.Js	07:08
+Menjalankan React Langsung Di Html	10:53
+Mengenal Tools Untuk Menginstall React.Js	05:46
+Menginstall React.Js Dan Pahami Strukturnya	09:19
+Menyiapkan Project React.Js Dari Awal	07:41
+Apa Itu Component Dan Cara Kerjanya	04:36
+Cara Membuat Dan Menggunakan Component Di React.Js	06:38
+Mengenal Jsx Di Dalam Component React.Js	04:25
+Membuat Banyak Component Dan Mengaturnya	08:04
+Cara Menjalankan Logic Javascript Di Component	05:03
+Cari Tahu Kenapa React Berbasis Component	05:23
+Styling Di Component	06:24
+Mengirim Data Antar Component Dengan Props	06:38
+Props, Immutable Dan One-Way Data Flow	04:56
+Aturan Penulisan Jsx	05:29
+Menampilkan Component Secara Dinamis	05:41
+Melakukan Render Secara Kondisional Dengan _	06:40
+Menampilkan Ui Di Jsx Dengan Ternary If	03:58
+Melakukan Render Jsx Dengan Multi Kondisi	03:11
+Refactor Komponen Khusus Untuk Jsx	03:39
+Memecah Isi Props Dengan Cara Destructing	03:20
+Membungkus Root Element Lebih Dari Satu Dengan React Fragment	03:54
+Mengatur Nilai Class Dan Text Secara Dinamis	03:58
+Rekap Apa Saja Yang Sudah Dipelajari Dan Langkah Selanjutnya	04:12
+Latihan #1 Membuat Kartu Nama Virtual	02:51
+Jawaban Latihan #1 Bagian 1	10:06
+Jawaban Latihan #1 Bagian 2	04:43
+Latihan #2 Membuat Kartu Nama Menjadi Dinamis	02:24
+Jawaban Latihan #2	05:34
+
+33. React.js State - Mengelola Perubahan Tampilan dengan Data bersama Event Handler:
+Persiapan Project Steps Form	07:48
+Menggunakan Event Handler Di Component	05:46
+Apa Itu State Dan Hubungannya Dengan Event Di React	04:21
+Membuat Ui Jadi Dinamis Dengan State Dan Event	06:30
+Isi Dari Usestate Dan Jangan Mengubah Nilai Secara Langsung	04:39
+Mekanisme State Saat Re-Render View	02:48
+Gunakan React Developer Tools	06:43
+Cara Benar Mengubah Nilai State Dengan State Itu Sendiri	03:46
+Best Practice Kapan Menggunakan State Dan Variabel Biasa	06:24
+Perbandingan Komponen Yang Sudah Dibuat Dengan Javascript Vanilla	07:18
+Setup Project Gocheck	07:15
+Menampilkan Item Dari Data Dengan Render List	05:10
+Buat Form Dan Event Handlernya	05:13
+Mendapatkan Data Dari Atribut Element	04:30
+Perbedaan Stats Dan Props	03:40
+Latihan #1 Membuat Todo App Dan Color Generator	03:33
+Jawaban Latihan #1 - Menyiapkan State Untuk Todo App	06:11
+Jawaban Latihan #1 - Menggunakan Event Handler Untuk Menyimpan Dan Menghapus Data	08:59
+Jawaban Latihan #1 - Contoh State Dan Even Untuk Generate Warna Hex, Rgb Dan Opacity	11:05
+
+34. React.js State Management - Panduan Menggunakan State yg Baik: 
+Berpikir Menjadi React.Js Agar Jadi Masternya	05:56
+Hal Dasar Cara Menentukan State Secara Local Atau Global	08:22
+Cara Alternatif Sebelum Pakai Global State	08:11
+Review Kenapa Harus Lifting-Up State	04:52
+Hapus Item Contoh Child-To-Parent Data Flow	05:32
+Mengubah Nilai State Dari Hirarki Component Paling Bawah	05:50
+Cara Benar Memanfaatkan State Pada Kondisi Deriving State	05:24
+Contoh Implementasi Deriving State	08:10
+Mengurutkan Deret Data Melalui State	08:36
+Cara Menghapus Atau Mengosongkan Nilai State	03:44
+Memisahkan Komponen Ke Dalam File Masing-Masing	07:30
+Latihan #1 - Membuat Tampilan Accordion Untuk Faq	08:43
+Latihan #1 - Menambahkan Fungsi Buka Tutup Pada Item Dan Styling	06:24
+Latihan #2 - Pemanfaatan Lift-Up State Untuk Status Open Accordion	05:13
+
+35. Belajar React.js dengan Membuat Aplikasi Split Bill:
+Demo Dan Persiapan Project Split Bill	03:44
+Membuat Desain Menampilkan Daftar Teman	08:57
+Menampilkan Form Untuk Tambah Teman Dan Patungan	08:06
+Menampilkan Dan Menyembunyikan Form Tambah Teman	05:27
+Menyiapkan State Untuk Menambah Data Teman	06:41
+Membuat Event Handler Untuk Membuat Data Object Teman	04:23
+Menampilkan Form Patungan Secara Dinamis	08:22
+Menampilkan Data Teman Yg Dipilih Di Dalam Form Patungan	05:12
+Membuat Logic Patungan	05:57
+Menghitung Balance Dari Siapa Yang Bayar Dan Yang Hutang	05:40
+
+
+36. React.js - Belajar Lebih Dalam Tentang Component dan Jenisnya:
+Persiapan Project	05:18
+Kriteria Membuat Sebuah Component Di React.Js	08:41
+Menentukan Kapan Membuat Component Terpisah	07:56
+Panduan Memisahkan Component Pada Bagian Navbar	05:45
+Panduan Memisahkan Component Pada Bagian Main List	03:57
+Membuat Component Hanya Untuk Layout Itu Sah Saja	04:36
+Mengenal Jenis Component Yg Sudah Dibuat	03:54
+Mengenal Prop Drilling - Bisa Dilakukan Tapi Tidak Disarankan	05:26
+Teknik Component Composition	03:07
+Mengatasi Prop Drilling Dengan Component Composition	04:59
+Memanfaatkan Component Composition Untuk Layouting	04:52
+Memecah Component Lebih Kecil Lagi	03:53
+Cara Lain Mengirimkan Component Melalui Prop	03:32
+Membuat Component Bintang Untuk Rating	05:31
+Menampilkan Icon Bintang Dan Fungsi Klik Untuk Memberikan Nilai	05:22
+Menampilkan Jumlah Bintang Yg Terisi Sesuai Dengan Nilai Rating	03:08
+Menampilkan Jumlah Bintang Sesuai Posisi Mouse	04:40
+Memanfaatkan Props Untuk Component Lebih Dinamis	04:47
+Mengenal Proptype Di React	04:42
+
+37. React.js - Bagaimana React.js Bekerja di Balik Layar: 
+Persiapan Project Yang Akan Dibahas	09:17
+Component, Instance Dan Element	06:30
+Praktek Mengenal Instance Dan Element React	07:03
+Cara Kerja Render Di React - Render Trigger	06:25
+Cara Kerja Render Di React - Fase Render	09:18
+Cara Kerja Render Di React - Fase Commit	05:48
+Apa Itu Diffing Dan Cara Kerjanya	06:00
+Contoh Cara Kerja Diffing	03:26
+Mengenal Fungsi Prop Key	05:35
+Praktek Prop Key Dapat Me-Reset State	03:25
+Pemanfaatan Reset State Dengan Key Pada Project	03:37
+Aturan Render Logic Pada Component	07:12
+Cara Kerja Perbarui State Di Balik Layar	06:29
+Praktek Update State Secara Bersamaan	06:11
+Cara Menambah Dan Mendapatkan Nilai State Sebelum Render	05:06
+Cara Kerja Event Di React	08:11
+Antara Library Framework Dan React	05:20
+Rangkuman Dari Cara Kerja React Di Balik Layar	09:32
+
+38. React.js - Belajar Hook Effect dan Data Fetching: 
+Memahami Component Lifecycle Sebelum Belajar Effect	03:44
+Cara Yang Harus Dihindari Saat Melakukan Fetch Dan Update State	08:24
+Gunakan Useeffect Untuk Mencegah Infiteloop	03:34
+Mengenal Effect Lebih Lanjut	04:10
+Menggunakan Async Function Di React	05:03
+Memanfaatkan State Untuk Loading Progress	03:21
+Cara Handle Error Dengan Baik	08:15
+Mengenal Dependency Array Pada Effect	04:57
+Contoh Proses Sinkronisasi Useeffect Di React	04:13
+Memanfaatkan Dependency Array Untuk Fetch Data	04:03
+Mendapatkan Id Movie Yang Dipilih	05:05
+Membuat Component Untuk Melihat Id Movie	05:29
+Cara Mendapatkan Detail Movie Melalui Fetch Menggunakan Effect	06:02
+Menampilkan Detail Movie Di Component Movie Detail	07:48
+Menambahkan Daftar Tonton Ke Watched List	07:47
+Menyimpan Nilai Rating Saat Tambah Data Movie	05:47
+Mendapatkan Kumpulan Nilai User Rating Dan Hapus Daftar Tonton	06:02
+Membuat Effect Untuk Membuat Judul Page Dinamis	04:08
+Memahami Lifecycle Unmount Pada Effect	04:16
+Menghindari Fetch Setiap Update State Query	06:01
+
+39.Membuat UI/UX Modern menggunakan AlpineJs:
+Apa Itu Alpine.Js	09:34
+Cara Install Alpine.Js	03:54
+Cara Mengolah Data Di Alpine.Js	05:34
+Mengenal Attribute Dari Alpine.Js	03:46
+Mengenal Properties Dari Alpine.Js	07:02
+Mengenal Methods Dari Alpine.Js	06:25
+Todo App - Menampilkan Daftar Data	07:19
+Todo App - Menambahkan Data.	06:48
+Todo App - Mengubah Style Secara Dinamis Berdasarkan Data	05:44
+Todo App - Menghapus Daftar Data	05:32
+Alpine.Js Directive - Perbedaan X-Text Dan X-Html	05:04
+Alpine.Js Directive - Cara Kerja X-Model Di Form	07:25
+Alpine.Js Directive - Mendalami Modifier Dari X-Model	07:12
+Alpine.Js Directive - Cara Mudah Memilih Element Dengan X-Ref	04:46
+Alpine.Js Directive - Memahami Cara Kerja X-If Dan X-Show	04:29
+Alpine.Js Directive - Menggunakan Effect Transisi Dengan X-Transition	06:58
+Alpine.Js Directive - Menyiapkan Logic Di Awal Atau Di Akhir Dengan X-Init	03:46
+Alpine.Js Properties - Cara Kerja $Store Pada Global State	05:55
+Alpine.Js Properties - Cara Kerja $Refs Untuk Memanipulasi Dom	05:29
+Alpine.Js Properties - Memanggil Event Diluar Componentnya Dengan $Dispatch	07:23
+Alpine.Js Properties - Menjalankan Fungsi Ketika Sebuah Data Berubah Dengan $Watch	05:27
+Alpine.Js Plugins - Membuat Inputan Terformat Dengan Masking	06:24
+Alpine.Js Plugins - Mengubah Inputan Nominal Mata Uang	02:29
+Project Pagination - Membuat Card Daftar Anggota	07:45
+Project Pagination - Membuat Ui Untuk Pagination	04:57
+Project Pagination - Menampilkan Daftar Anggota Dari Alpine.Js	09:21
+Project Pagination - Mengaktifkan Proses Pagination Dengan Alpine.Js	07:57
+Project Pagination - Mendapatkan Data Members Dari Api.Js	06:31
+Project Pagination - Mencari Data Member Berdasrakan Pencarian	08:01
+Calculator - Membuat Component Calculator	04:52
+Calculator - Percantik Ui Calculator Dengan Tailwindcss	06:00
+Calculator - Mendapatkan Nilai Dan Operator Dari Tombol	05:04
+Calculator - Mengaktifkan Fungsi Menghitungnya	04:15
+Calculator - Membuat Perhitungan Dengan Persen	05:16
+Calculator - Mengaktifkan Fungsi Calculator Dengan Keyboard	05:18
+
+40. Membangun Situs Statis Super Cepat dengan AstroJs:
+Simple Preview	20:47
+Cara Install	07:38
+Persiapan Tools	04:42
+Konsep Dasar	10:19
+Routing	06:23
+Dynamic Routing	06:20
+Components	06:07
+Pages	13:17
+Layouts	13:48
+CSS Styles	17:23
+Scripts & Event Handling	21:00
+Studi Kasus News Portal	03:27
+Membuat Data Sample	04:25
+Membuat Homepage	07:53
+Membangun Detail Berita	20:14
+Mempercantik Halaman Home	11:57
+Mempercantik Halaman Detail	09:16
+Estimation Reading Time	10:42
+Setting SEO & Social Media Preview	12:47
+Integrasi Social Share Button	06:18
+Integrasi Disqus	07:38
+Integrasi Swiper Slider	06:00
+Deployment di Vercel	06:08
+Penutup	01:45
+
+Back End Basic - PHP
+41. Belajar Pemrograman PHP:
+Cara Install XAMPP di Windows	
+Cara Install XAMPP di Linux
+Hello World	12:46
+Variabel	04:35
+Mix HTML	09:51
+Mengenal Fungsi	13:19
+Quiz Konsep Dasar	05:00
+Integer Float	08:17
+String	05:03
+Boolean	08:39
+Array	11:20
+Array Asosiatif	11:44
+Array Multidimensi	09:44
+Tipe data Null	06:13
+Quiz Variabel dan Operator	05:00
+Membuat Form	
+Query String GET	08:56
+Global Variable POST	
+Parsing Array	
+Quiz Mengirim Data Melalui Form	05:00
+If Else	09:42
+If Elseif Else	06:31
+If Bersarang	06:24
+Switch	08:11
+Pengecekan Kondisi Ganda	06:32
+Ternary Operator	03:58
+Quiz Mengecek Kondisi	05:00
+For	12:04
+For Array	07:58
+While	07:10
+Foreach	07:15
+Break	04:10
+Continue	04:19
+Menampilkan Data ke Table	07:31
+Quiz Perulangan	05:00
+Membuat Fungsi Sendiri	10:56
+Skup Variabel	04:24
+Mengembalikan Hasil Proses Fungsi	08:30
+Parameter Referensi	06:13
+Quiz Fungsi	05:00
+Menulis Dan Membaca File	05:58
+Menyimpan Dalam Format Serialize Dan Json	05:30
+Membuat Aplikasi Todo Membuat Template	03:33
+Membuat Aplikasi Todo Menyimpan Data Ke File	06:25
+Membuat Aplikasi Todo Menampilkan List Todo	04:24
+Membuat Aplikasi Todo Memperbaharui Status	12:54
+Membuat Aplikasi Todo Menghapus Data	06:46
+Quiz Managemen File	05:00
+
+42. Konsep Dasar Pemrograman Berorientasi Objek di PHP:
+Apa itu OOP	09:05
+Cara Mendefinisikan Class	08:06
+Memahami Instance Object	05:16
+Property pada Class OOP	10:37
+Method pada Class OOP	07:32
+Menggunakan Object	08:54
+Mengenal Inheritance	05:39
+Mendefinisikan Subclass	08:39
+Kuis - Konsep Dasar Pemrograman Berorientasi Objek di PHP - Topik 1	
+Extend dan Override	09:52
+Visibilitas Object - Encapsulation	14:24
+Setter dan Getter	08:59
+Static Property dan Method	10:14
+Pewarisan Static Property dan Method	08:07
+Constant Class	06:01
+Merujuk Parent Class	09:45
+Construct Method	06:57
+Construct Argument	08:05
+Destruct Method	07:30
+Clone Method	05:50
+Autoload Method	08:50
+PHP Namespace Overview	04:17
+Menggunakan Namespace	07:18
+Menggunakan Composer	08:19
+Penjelasan Interface	04:50
+Membuat Interface	06:35
+Penjelasan Trait	03:11
+Membuat Trait	03:55
+Penjelasan Abstract Class	02:48
+Membuat Abstract Class	04:11
+Penjelasan Type Hint	06:04
+Penjelasan Strict Declaration	04:49
+Penjelasan Return Type	07:15
+Penjelasan Closure	07:41
+Membuat Closure	08:48
+Kuis - Konsep Dasar Pemrograman Berorientasi Objek di PHP - Topik 2	
+
+43. Pengenalan Database Menggunakan MySQL:
+Apa Itu Database Dan Komponen Utamanya	03:52
+DDL DML DCL Apa Itu	03:53
+Cara Install Mysql	03:53
+Kuis - Pengenalan Database Menggunakan MySQL - Topik 1
+Membuat Menampilkan, Menghapus dan Mengaktifkan Database	03:55
+Membuat, Menampilkan, Menghapus dan Mengubah Nama Tabel	03:56
+Menambahkan dan Mengurangi Kolom pada Tabel	03:57
+Membuat, Menambahkan Dan Menghapus Primary Key	03:58
+Membuat, Menambahkan Dan Menghapus Unique Key	03:58
+Membuat Foreign Key	03:59
+Kuis - Pengenalan Database Menggunakan MySQL - Topik 2	
+Mempersiapkan Tabel Project	04:00
+Query Menambah Data Pada Tabel - Insert	04:02
+Mendapatkan Data Dari Tabel - Select	04:03
+Mengubah Data Yang Ada - Update	04:04
+Menghapus Data Yang Ada - Delete	04:05
+Kuis - Pengenalan Database Menggunakan MySQL - Topik 3
+Import File SQL di MySQL dari Data Generator	04:05
+Menampilkan Data Dengan Limit Tertentu	04:08
+Pencarian Data Dengan Kondisi Tertentu	04:09
+Mengurutkan Baris Data Dengan Order By	04:11
+Mengelompokkan Baris Data Dengan Group By	04:13
+Kuis - Pengenalan Database Menggunakan MySQL - Topik 4
+Menggabungkan Tabel Secara Langsung - Cross Straight	04:15
+Relasi Tabel Menggunakan Inner Join	04:34
+Relasi Tabel Dengan Left Dan Right Join	04:35
+Kuis - Pengenalan Database Menggunakan MySQL - Topik 5
+
+44. PHP 7 dan MySQL: Panduan CRUD Lengkap untuk Pemula (Versi Lama):
+Membuat dan Menghapus Database	02:26
+Membuat Table dan Tipe Data	05:16
+Insert to Table	02:53
+Update Data Table	03:13
+Delete Data Table	01:37
+Select dan Select Filter	08:49
+Quiz Mengenal Mysql	05:00
+Mengenal MySQLi	01:34
+Mengkoneksikan PHP dengan MySQL	04:39
+Menampilkan Data Karyawan	07:46
+Membuat Form Insert	07:38
+Insert Data	07:01
+Update Data	19:50
+Delete Data	06:14
+Search Data	06:54
+Quiz Crud Php Mysql	05:00
+
+45. PHP 8 dan MySQL: Panduan CRUD Lengkap untuk Pemula (Terbaru):
+Introduction	04:14
+PHPMyAdmin	08:12
+Create Table	08:46
+Alter Table	04:41
+Insert Data	13:18
+Select	12:45
+Select Filter	06:51
+Update	11:18
+Delete	04:41
+Pengenalan MySQLi	05:07
+Mengkoneksikan database	12:51
+Select Query	09:00
+Menampilkan data	08:53
+Menampilkan data detail	10:50
+Menampilkan data detail	10:32
+Form Tambah Data	14:33
+Insert data	13:49
+Form Update	12:53
+Update	05:27
+Delete	06:52
+Search	13:56
+Pendahuluan & Connection	08:51
+Insert	10:16
+List & Search	11:09
+Detail	04:46
+Update & Delete	06:17
+
+46. PHP Native & MySQL : Membangun Website OLX Clone dengan AI Assist Windsurf:
+Introduction	02:07
+Mengapa AI	04:07
+Apakah AI Akan Menggantikan Programmer	05:14
+Skenario Yang Akan Dibuat	02:54
+Tools yang dibutuhkan apa saja	03:21
+Sekilas Tentang Agentic IDE	03:46
+Apa Itu Database	03:38
+Instalasi Windsurf Editor	04:12
+Instalasi XAMPP	05:46
+User Persona	06:23
+Merancang Database	04:52
+Konfigurasi Dulu	07:05
+Relasi dan Table	15:05
+Halaman Utama	11:51
+Halaman Detail	06:11
+Halaman Login dan Register	04:37
+Halaman Pasang Iklan	08:36
+Konfigurasi Awal	06:06
+Skema Register	11:44
+Skema Login	08:19
+Kategori dinamis pada post ad	09:22
+Location dinamis pada post ad	11:03
+Post ad bagian 1	13:31
+Post ad bagian 2	06:05
+Testing pasang iklan	06:03
+Skenario Halaman Beranda	08:42
+Skenario Halaman Detail	09:26
+Percantik Halaman Detail	05:51
+Halaman Iklan Saya	07:36
+Fitur Edit dan Hapus Iklan Saya	12:27
+Session Notice dan Logout	04:12
+Halaman Edit Profile	09:09
+Testing Semua Fitur	08:54
+Persiapan Launch Market	04:10
+Hosting Bagian 1	16:36
+Hosting Lanjutan dan Final Testing	08:01
+
+Back End Intermediate - PHP
+47. Pemrograman Berorientasi Objek di PHP - Lanjutan: 120:00
+Perbedaan Kode OOP dan Prosedural	
+OOP dan Keunggulannya	
+Beberapa Istilah OOP di PHP	
+Membuat Class	
+Instansiasi Objek	
+Memahami Constructor dan Destructor	
+Modifier	
+Class Constant	
+Class Inheritance	
+Polymorphism	
+Override Method
+Interface	
+Abstract Class	
+Static Method dan Properties	
+Accesor Method	
+Magic Method __set() dan __get()	
+Magic Method __call()	
+Method Chaining	
+Namespace	
+Autoloading Class	
+Menggunakan Composer
+Mengecek Eksistensi Class	
+Mengecek Eksistensi Method dan Property	
+Mengecek Nama dan Tipe Class	
+Mengclone Objek	
+Mengubah Array Menjadi Objek
+Mengenal Design Pattern	
+Mengenal Strategy Pattern	
+Mengenal Factory Pattern	
+Mengenal Abstract Factory	
+Mengenal Adapter Pattern	
+Mengenal Singleton Pattern	
+Mengenal Iterator Pattern	
+Mengenal Observer Pattern	
+Mengenal Proxy Pattern	
+Mengenal Decorator Pattern	
+Mengenal Active Record Pattern	
+Mengenal Facade Pattern	
+Mengenal Dependency Injection
+MySQLi Prosedural dan Berbasis Objek	
+Menggunakan PDO
+Penggunaan Dasar	
+Membuat Custom Exception	
+Multiple Exception	
+Throwable
+Kegunaan Reflection	
+Reflection Method	
+Reflection Parameter	
+Reflection Property
+Keuntungan Menerapkan Unit Testing	
+Mempersiapkan Unit Testing	
+Membuat Unit Testing	
+Simulasi Unit Testing	
+Pengantar Test Driven Development
+
+48. Pengembangan Web Fullstack dengan Laravel 11:
+Sekilas tentang Laravel	07:46
+Konsep MVC yang digunakan Laravel	05:12
+Setup kebutuhan untuk install project Laravel	11:52
+router - mengenal cara kerja router	05:05
+router - kenali http method sebelum praktek	04:30
+router - contoh penggunaan method get	07:36
+router - cara kerja method post di laravel	08:55
+router - mendapatkan data dari user menggunakan method post	06:27
+router - mengubah data dengan method put dan cara kirim melalui form	06:00
+router - menggunakan route parameter untuk menentukan data	04:12
+router - menggunakan method patch untuk ubah data	04:02
+router - menggunakan method delete dan kesimpulan	04:31
+middleware - pengenalan middleware	07:16
+middleware - cek membership dengan middleware	08:55
+middleware - melakukan aksi sebelum atau sesudah request dilanjutkan	05:43
+middleware - mendefinisikan middleware pada tempatnya	03:32
+middleware - satu route bisa banyak middleware	04:38
+middleware - cara menerapkan middleware di banyak route	04:49
+controller - cara membuat controller	07:02
+controller - cara mendefinsikan data di controller	04:28
+controller - cara menghubungkan router dengan controller	05:27
+controller - mendapatkan data berdasarkan parameter di controller	05:34
+controller - mengirimkan data dari user ke controller	05:39
+controller - mengubah data properti dari class controller	07:22
+controller - menghapus nilai property dari class controller	05:40
+Controller - Menerapkan Middleware Controller Lebih Spesifik	04:35
+Request - Apa Saja Data Di Dalam Request	03:45
+Request - Menggunakan Object Request Sebagai Dependency Injection	05:58
+Request - Contoh Method Request Yg Bermanfaat	05:20
+Request - Cara Mendapatkan Data	05:30
+Request - Cara Mengolah Data Dari Request	07:33
+Request - Method Khusus Untuk Data Input Dan Query Params	04:58
+Request - Method Khusus Untuk Data Tanggal	05:31
+Request - Cek Data Dari Request	04:04
+Request - Mencari Request Yg Hilang Dan Menambahkannya	03:47
+Response - Mengenal Response Dan Response Pada Header	05:16
+Response - Menambahkan Data Headers Untuk Cache	06:06
+Response - Menambahkan Data Cookie Melalui Response	05:00
+Response - Menghapus Data Cookie Dari Response	04:13
+Redirect - Response Beralih Ke Halaman Lain	03:58
+Redirect - Redirect Menggunakan Controller	04:00
+Redirect - Redirect Ke Halaman External Atau Menggunakan Url	02:58
+Response - Membuat Nilai Balik Dalam Bentuk Json	03:45
+View - Cara Menampilkan Halaman	05:48
+View - Membuat File View Lebih Terstruktur	05:17
+View - Melempar Data Dari Controller Ke View	04:24
+View - Cara Lain Mengirimkan Data Ke View	03:48
+View - Berbagi Data Di Manapun View Berada	05:48
+View - Membuat Service Provider Untuk Sharing Data	05:32
+View - Membagikan Data Menggunakan View Composer	03:43
+View - Memisahkan Logic Data Untuk View Composer	05:41
+Blade - Cara Blade Menampilkan Data	06:36
+Blade - Kondisi If	04:46
+Blade - Cara Ternary If Di Blade	04:22
+Blade - Switch Statement	04:39
+Blade - Perulangan Di Dalam Blade	08:42
+Blade - Penerapan Continue Dan Break Di Perulangan Blade	05:36
+Blade - Ada Variabel Tersembunyi Dari Perulangan	06:16
+Blade - Menggunakan Kondisi Di Dalam Attribute Class	04:06
+Blade - Memecah Tampilan Blade Dengan Fungsi Include	05:19
+Layouting - Membuat Master Layout	05:01
+Layouting - Membuat Content Dan Component Blade Dinamis	08:14
+Layouting - Menampilkan Daftar Movie Dari Array	07:47
+Layouting - Menampilkan Detail Movie	10:2
+Layouting - Membuat Form Tambah Movie	08:48
+Layouting - Menyimpan Data Movie Baru	09:54
+Layouting - Menampilkan Halaman Edit Beserta Datanya	09:13
+Layouting - Memperbarui Data Movie	06:0
+Layouting - Memperbaiki Link Pada Icon Edit Movie	04:35
+Layouting - Membuat Action Button Delete Movie Dan Menghapusnya	06:30
+Layouting - Mengenal Layouting Dengan Component Anonymous	07:5
+Layouting - Membuat Banyak Section Di Satu Component	05:14
+Layouting - Mengirimkan Data Ke Child Component Anonymous	04:54
+Layouting - Membuat Card Movie Dengan Class Component	06:39
+Layouting - Mengirimkan Data Ke Class Component	04:30
+Layouting - Memodifikasi Data Di Class Component	04:48
+Layouting - Membuat Logic Validasi Di Class Component	04:09
+Layouting - Membuat Method Bisa Diakses Di Component View	04:34
+Validation - Cara Membuat Validasi Requets Input	06:19
+Validation - Menampilkan Error Message Berdasarkan Field	06:44
+Validation - Menambahkan Rules Validation Lebih Dari Satu	05:15
+Validation - Mengembalikan Nilai Inputan Sebelumnya	04:42
+Validation - Menulis Rules Validation Pada Tempatnya	06:09
+Validation - Membuat Error Message Validasi Sendiri	04:50
+Session - Mengenal Session Dan Konfigurasinya	07:58
+Session - Menyimpan Dan Menampilkan Data Session	04:50
+Session - Menyimpan Data Array Dan Menampilkan Seluruh Isi Session	03:31
+Session - Cara Menghapus Data Session	04:47
+Configurasi Database di Laravel	06:17
+Membuat Desain Tabel dengan Migration	08:14
+Menambahkan Kolom Baru Pada Tabel	07:15
+Memodifikasi Tabel yang Sudah Ada	06:12
+Menghapus Kolom Menggunakan Migration	03:25
+Menambahkan Index Kolom pada Tabel	04:34
+Membuat Contoh Data dengan Seeder	09:23
+Mendapatkan Data dengan Query Builder	07:56
+Mendapatkan Data dengan Eloquent	06:34
+Menambahkan Data ke DB dengan Query Builder	06:58
+Menambahkan Data ke DB dengan Eloquent	05:46
+Mengubah Data ke DB dengan Query Builder	04:10
+Mengubah Data ke DB dengan Eloquent	04:34
+Menghapus Data di DB dengan Query Builder dan Eloquent	04:09
+persiapan desain tabel yang berelasi	05:59
+one to one - menambahkan data yg berelasi	08:28
+one to one - menampilkan data relasi	05:15
+one to one - mengubah dan menghapus data	05:33
+one to many - persiapan model dan migration	06:39
+one to many - mendapatkan parent beserta child	07:35
+one to many - Mendapatkan data dari relasi dengan filtering	09:19
+many to many - persiapan tabel dan model	06:41
+many to many - menambahkan data antar model	05:47
+many to many - menghapus data antar model	03:35
+many to many - menambahkan dan menghapus data antar model sekaligus	04:36
+Register	06:28
+Register Part 2	07:47
+Login	06:32
+Penerapan Middleware Auth Pada Halaman dan Logout	05:44
+
+49. Laravel 11 : Membuat Backend Aplikasi Social Media dengan REST API:
+Pembukaan	00:40
+Pengenalan Tools	03:16
+Ruang Lingkup	04:18
+Merancang ER dengan DBDiagram	14:36
+Install Laravel 11	04:46
+Install Laravel API	04:46
+Membuat dan Menjalankan Migration	07:47
+Membuat Seeder Posts	05:42
+Membuat Seeder Likes	02:13
+Membuat Seeder Comments	02:50
+Membuat Seeder Message	03:04
+Menentukan API Scope	03:57
+Posts API - Get all posts	15:26
+Posts API - Create a Post	11:54
+Posts API - Get detail post	04:02
+Posts API - Update post	07:16
+Posts API - Delete post	03:54
+API Comments - Insert new Comment	12:48
+API Comments - Delete a Comment	03:13
+API Likes - Doing Like	10:29
+API Likes - Remove like	03:45
+API Messages - Send a message	12:38
+API Message - Get detail message	03:18
+API Messages - Delete a message	02:24
+API Messages - Get all messages by user	06:35
+Pengenalan JWT	06:49
+Install Library JWT	05:49
+Handle Register	15:57
+Handle login	08:02
+Implementasi Middleware JWT	11:58
+Integrasi User ID dari JWT	10:46
+Penyempurnaan get post dengan relasi	07:28
+Penutupan	00:51
+
+50. Mengembangkan Sistem Streaming Seperti Netflix Menggunakan Laravel 11:
+Apa Yang Akan Dibangun	04:36
+Persiapan Software Dan Project Laravel	06:20
+Bedah Skema Database Yang Digunakan	04:10
+Install Laravel Fortify	08:40
+Membuat Halaman Register	11:51
+Membuat Halaman Login	06:12
+Membuat Halaman Forgot Password	05:16
+Membuat Halaman Reset Password	04:42
+Desain Tabel Database	04:21
+Desain Relasi Tabel	04:23
+Implementasi Migration Dan Seeder Ke Database	05:45
+Membuat Halaman Plan	07:10
+Redirect Setelah Registrasi	05:54
+Halaman Checkout	06:58
+Redirect Setelah Login	08:56
+Proses Checkout Dan Success Page	08:23
+Model Dan Relasi Untuk Device Limiter	04:10
+Membuat Service Device Limiter	08:43
+Implementasi Device Limiter Dengan Middleware	08:39
+Hapus Device Dari List Saat Logout	06:53
+Buat Model Migration Dan Seeder Category	05:41
+Buat Model Migration Dan Seeder Movie	04:58
+Membuat Relasi Many To Many Category Dengan Movie	06:41
+Membuat Halaman Statis Homepage	06:04
+Mendapatkan Data Kategori Secara Global	07:01
+Model Migration Seeder Dan Relasi Movie Rating	05:37
+Menampilkan Latest Movie Dan Trending Movie	06:55
+Menampilkan Detail Movie	06:31
+Menampilkan Movie Berdasarkan Kategori	04:51
+Membuat Fitur Pencarian Movie	05:10
+Membuat Halaman All Movies Dan Load More	05:18
+Membuat Scheduler Job Untuk Check Membership	05:07
+Membuat Command Untuk Menjalankan Job Dan Scheduler	03:37
+Membuat Command Untuk Menjalankan Job Dan Scheduler	05:45
+Membuat Event Dan Listener Untuk Member Expired	04:27
+Membuat Class Notification Mail Dan Uji Coba	07:09
+Implementasi Notifikasi Email Pada Expired Member	06:50
+Menggunakan Mailable Untuk Format Email	07:02
+Persiapan Midtrans Snap	05:28
+Membuat Method Chekcout Transaction	06:27
+Integrasi Checkout Page Dengan Snap Midtrans	07:04
+Persiapan Notification Setting Dari Midtrans	05:10
+Membuat Fungsi Callback Untuk Midtrans	05:14
+Membuat Api Untuk Callback Midtrans Dan Implementasi	05:32
+
+
+51. Mengembangkan Sistem HRIS Seperti Talenta Menggunakan Laravel 12:
+Pembukaan	01:07
+Pengenalan Tools	03:37
+Konteks & Demo Sisi Admin	05:31
+Konteks & Demo Sisi Karyawan	05:16
+Database Design (ERD)	04:48
+Install Laravel	02:24
+Setup ENV dan DB	05:09
+Setup Migration	21:05
+Run Migration & Bug Fixing	08:45
+Seeding	32:19
+Install Laravel Breeze	08:34
+Install Dashboard Template	27:14
+Mengatur Layouts	14:58
+Fitur Tasks - Index	34:12
+Fitur Tasks - Handle Create	15:12
+Fitur Tasks - Install Flatpickr	07:09
+Fitur Tasks - Handle Form Edit	17:19
+Fitur Tasks - Handle Delete	06:07
+Fitur Tasks - Marking Status	05:59
+Fitur Tasks - Handle show	06:51
+Fitur Employees - Index	21:21
+Fitur Employees - Handle Create	24:04
+Fitur Employees - Handle show	05:14
+Fitur Employees - Update Data	25:34
+Fitur Employees - Delete Data	04:37
+Fitur Departments - Index	08:27
+Fitur Departments - Create	09:44
+FItur Departments - Edit	10:15
+Fitur Departments - Delete	02:37
+Fitur Roles - Index	04:33
+Fitur Roles - Create	01:16
+Fitur Roles - Update	06:51
+Fitur Roles - Delete	01:36
+Fitur Presences - Index	11:36
+Fitur Presences - Create	00:10
+Fitur Presences - Update	09:04
+Fitur Presence - Delete	02:10
+Fitur Payrolls - Index	15:12
+Fitur Payrolls - Create	14:32
+Fitur Payrolls - Update	11:41
+Fitur Payrolls - Delete	03:31
+Fitur Payrolls - Salary Slip	14:38
+Fitur Leave Requests - Index	12:38
+Fitur Leave Requests - Create	08:58
+Fitur Leave Requests - Update	07:33
+Fitur Leave Requests - Confirm Reject	07:08
+Fitur Leave Requests - Delete	01:45
+Konsep Auth & Authorization	02:52
+Implementasi Middleware CheckRole	19:55
+Memperbaiki Link Sidebar	03:22
+Memperbaiki Link Sidebar - Minor Patch	01:08
+Fitur Tasks Karyawan	03:24
+Fitur Presence Karyawan	32:58
+Fitur Payroll Karyawan	03:49
+Fitur Leave Request Karyawan	08:10
+Handle menu active	04:05
+Mempercantik Insight - Total Data	14:41
+Mempercantik Insight - Latest Task	04:57
+Mempercantik Insight - Presence Chart	16:56
+Finishing	02:13
+
+52. Mengembangkan Aplikasi Restoran berbasis QR dengan Laravel 12 + Copilot AI:
+Pendahuluan Gambaran Aplikasi	02:24
+Demo Aplikasi - Pembayaran Tunai	07:19
+Demo Aplikasi - Pembayaran QRIS	04:43
+ER Diagram	05:22
+Use Case Diagram	02:46
+Instalasi	03:14
+Setup ENV	02:40
+Setup Repository Git	02:48
+Struktur Folder	02:34
+Migrations Table Users	04:53
+Migrations & Seeder Table Roles	03:25
+Migration Table Categories dan Items	02:58
+Factory Seeder Categories dan Items	03:16
+Factory Seeder Users	03:10
+Migrations Table Orders and Order	03:29
+Migrate	01:53
+Models	08:48
+Integrasi Template Menu	09:50
+Integrasi Template Cart dan Checkout	03:18
+Database Seeder	04:03
+MenuController Index	18:38
+MenuController AddToCart	11:23
+MenuController Empty Cart	04:26
+MenuController Update Quantity Cart	21:36
+MenuController Remove Cart	11:33
+MenuController Checkout Page	10:50
+MenuController Checkout Payment Cash	22:40
+MenuController Order Success	24:15
+Konfigurasi Midtrans Payment Gateway	05:50
+Implementasi Midtrans Payment Gateway	21:49
+Integrasi Template Admin	12:07
+Sidebar & Routes Admin	08:53
+Menampilkan Item dengan DataTable	29:26
+Store dan Update Data Item	24:48
+Delete Data Item dan Alert	10:47
+CRUD Role	07:35
+CRUD Karyawan	22:40
+CRUD Kategori	12:19
+Daftar Pesanan	09:52
+Melihat Detail Pesanan	22:54
+Update Status Menu	07:56
+Setup Autentikasi dengan Breeze	23:50
+Role Cashier & Konfirmasi Pesanan T	07:12
+Role Chef & Update Pesanan Menjadi	06:30
+Memperbaiki UI dan Halaman Login	20:49
+Recap Project & Pengembangan Selanjutnya	13:00
+
+53. Menguasai Framework CodeIgniter 3:
+Membuat Halaman Pertama dengan CodeIgniter	12:41
+Quiz Pendahuluan	05:00
+Controller	08:46
+View	06:13
+Default Controller	06:19
+Akses Database	08:30
+Select Where	16:38
+Membuat Model	07:13
+Quiz MVC	05:00
+Insert Artikel	17:28
+Update Artikel	14:07
+Delete Artikel	05:34
+Search Artikel	08:52
+Templating Bootstrap Bagian 1	12:01
+Templating Bootstrap Bagian 2	13:53
+Templating Form	07:24
+Templating Form	07:24
+Quiz Managemen Artikel	05:00
+Pengenalan Library Helper	07:21
+Menggunakan Form Helper	08:48
+Menggunakan Library Upload	15:05
+Menggunakan Library untuk Form Edit	06:25
+Memperbaiki Kode Upload pada Form Edit	06:13
+Menggunakan Library Form Validation	12:22
+Menggunakan Form Validation pada Form Edit	04:52
+Menggunakan Library Pagination	09:38
+Menambahkan Pesan Pemberitahuan Aksi dengan Flashdata	13:44
+Menggunakan Session Untuk Membatasi Akses	14:55
+Quiz Library dan Helper	05:00
+
+54. Membangun RESTful API dengan Laravel Studi Kasus Blog:
+Apa itu Web Service dan REST API	09:18
+Persiapan Project	06:47
+Kuis - Membangun RESTful API dengan Laravel 6 - Topik 1
+Browse API Endpoint	11:15
+Read API Endpoint	06:41
+Add API Endpoint	08:11
+Edit API Endpoint	08:10
+Delete API Endpoint	05:55
+Kuis - Membangun RESTful API dengan Laravel 6 - Topik 2
+Custom Response untuk Data Tidak Ditemukan	3:49
+Menambahkan Validasi beserta Responsenya	06:12
+Kuis - Membangun RESTful API dengan Laravel 6 - Topik 3
+Membuat Custom Response	10:18
+Menggunakan Resource Collection	09:47
+Membuat Response Pagination	04:39
+Memuat Data Berelasi di API Resource	08:40
+Kuis - Membangun RESTful API dengan Laravel 6 - Topik 4
+Menggunakan API Authentication Laravel	12:37
+Kuis - Membangun RESTful API dengan Laravel 6 - Topik 5
+
+55. Belajar Framework Laravel Studi Kasus Role Management:
+Installasi Laratrust	11:23
+Membuat Model Article beserta Factory	07:19
+Kuis - Membuat Role Management Menggunakan Laravel - 1
+Membuat Component Blade Alert	06:38
+Membuat CRUD User	13:12
+Membuat CRUD Permission	05:58
+Kuis - Membuat Role Management Menggunakan Laravel - 2	
+Membuat CRUD Role	08:33
+Membuat CRUD Article	05:58
+Implementasi Role dan Permission di Controller	10:43
+Implementasi Role dan Permission di Blade	05:30
+Kuis - Membuat Role Management Menggunakan Laravel - 3
+
+56. Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport:
+Demo Project	04:16
+Persiapan Passport Project	05:30
+Kuis - Sistem Otentifikasi API Berbasis Auth dengan Laravel Passport - Topik 1
+Membuat Timeline Component	05:24
+Menampilkan Data Tweets	09:03
+Membuat Post Component	04:59
+Membuat API Endpoint Create Data	10:08
+Kuis - Sistem Otentifikasi API Berbasis Auth dengan Laravel Passport - Topik 2
+Installasi Laravel Passport	04:40
+Menggunakan Vue Component dari Laravel Passport	08:57
+Menguji Personal Token Laravel Passport	09:33
+Kuis - Sistem Otentifikasi API Berbasis Auth dengan Laravel Passport - Topik 3
+Persiapan Passclient Project	07:25
+Membuat Request Authorize pada Laravel Passport	08:40
+Membuat Fungsi Callback dan Menyimpan Token	09:04
+Menggunakan Token yang Disimpan	09:30
+Kuis - Sistem Otentifikasi API Berbasis Auth dengan Laravel Passport - Topik 4
+Implementasi Scope di Laravel Passport	09:01
+Persiapan Fungsi Refresh Token	07:16
+Implementasi Refresh Token di Laravel Passport	12:10
+Kuis - Sistem Otentifikasi API Berbasis Auth dengan Laravel Passport - Topik 5
+
+57. Membangun Web Donasi Online dengan Laravel dan Payment Gateway:
+Perkenalan	02:28
+Perubahan Library dan Source Code Sebelum Mengikuti	
+Pengenalan SNAP dan Installasi SDK	07:35
+Membuat Model dan Migration Donation	06:08
+Membuat Controller dan Halaman Donation	05:18
+Kuis - Implementasi Payment Gateway Indonesia Menggunakan Laravel - 1	
+Membuat Fungsi Store Payment	09:45
+Mengintegrasikan Snap Payment	13:44
+Membuat Midtrans Notification Handler	09:12
+Implementasi Handler Menggunakan Ngrok	07:06
+Menampilkan Daftar Donasi	12:42
+Kuis - Implementasi Payment Gateway Indonesia Menggunakan Laravel - 2
+
+58. Membangun Website Toko Online Berbasis CodeIgniter:
+Contoh Template dan Persiapan Awal	05:49
+Membuat Kerangka HTML dan Navigasi Menggunakan Bootstrap	15:26
+Membuat Halaman Login	08:15
+Membuat Halaman Register	03:26
+Membuat Tampilan Beranda Bagian 1	10:37
+Membuat Tampilan Beranda Bagian 2	11:01
+Membuat Halaman Keranjang Belanja	11:24
+Membuat Halaman Checkout	08:31
+Membuat Halaman Checkout Berhasil	06:19
+Membuat Halaman My Order	07:03
+Membuat Halaman My Order Detail	06:05
+Membuat Halaman My Order Confirm	06:48
+Membuat Halaman Profil	04:43
+Membuat Halaman Update Profil	04:05
+Membuat Halaman Admin Tabel Pengguna	16:33
+Membuat Halaman Admin Formulir Pengguna	08:35
+Membuat Halaman Admin Tabel Kategori	06:58
+Membuat Halaman Admin Formulir Kategori	11:39
+Membuat Halaman Admin Tabel Produk	06:04
+Membuat Halaman Admin Formulir Produk	09:10
+Membuat Halaman Admin Tabel Order	05:01
+Membuat Halaman Admin Detail Order	12:42
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 1
+Cara Install Codeigniter dan Mempercantik URL	15:34
+Persiapan Autoload Libraries dan Helpers	07:20
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 2	
+Membuat Core Class Controller Sendiri	12:14
+Membuat Fungsi Pemanggilan Nama Tabel Otomatis	08:06
+Membuat Fungsi Validasi Input	06:51
+Membuat Fungsi Umum dari Query Database	20:00
+Membuat Fungsi Pagination	16:34
+Membuat Helper dan Konfigurasi Zona Waktu	14:57
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 3
+Menggunakan Template pada Codeigniter	14:21
+Membuat Element Alert untuk Notifikasi	10:50
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 4
+Membuat Tabel User dan Model Register	19:09
+Membuat Controller untuk Register	13:14
+Membuat Halaman Register	14:20
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 5
+Membuat Model Login	10:33
+Membuat Controller untuk Login	07:42
+Membuat Halaman Login dan Perbaikan Helper	05:39
+Membuat Fungsi Logout	07:42
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 6	
+Membuat Tabel dan Model Kategori	08:01
+Membuat Controller Kategori dan Fungsi Index	10:16
+Menampilkan Data Kategori Menggunakan Pagination	10:55
+Membuat Fungsi Tambah Kategori	08:57
+Membuat Halaman Formulir dan Fungsi Validasi	14:08
+Membuat Fungsi Ubah Kategori dan Perbaikan Validasi	15:55
+Membuat Fungsi Hapus Kategori	09:37
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 7
+Membuat Tabel dan Model Produk	10:05
+Membuat Controller Produk dan Fungsi Index	10:19
+Menampilkan Data Produk dengan Pagination	14:19
+Membuat Fungsi Unggah File dan Tambah Produk	15:35
+Membuat Halaman Formulir dan Validasi	20:12
+Membuat Fungsi Hapus File dan Ubah Data	15:02
+Membuat Fungsi Hapus Produk	09:30
+Membuat Fungsi Pencarian Produk	08:52
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 8
+Menampilkan Data Pengguna dengan Pagination	17:41
+Membuat Fungsi Tambah Pengguna	11:52
+Membuat Fungsi Ubah Pengguna	08:13
+Membuat Fungsi Hapus Pengguna	11:19
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 9
+Mengaktifkan Validasi Peran Pengguna dan Perbaikan	08:01
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 10
+Menampilkan Data Pengguna	14:39
+Membuat Fungsi Ubah Data Pengguna	11:16
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 11
+Menampilkan Data Produk di Beranda	13:27
+Menampilkan Produk Berdasarkan Harga	07:41
+Menampilkan Produk Berdasarkan Kategori	12:55
+Menampilkan Produk Berdasarkan Pencarian	06:50
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 12
+Membuat Fungsi Tambah Produk dalam Keranjang	14:40
+Implementasi Formulir Tambah Produk dalam Keranjang	06:48
+Menampilkan Produk dalam Keranjang Belanja	13:07
+Membuat Fungsi Ubah Produk dalam Keranjang	06:30
+Implementasi Fungsi Ubah Produk dalam Keranjang	03:27
+Membuat Fungsi Hapus Produk dalam Keranjang	05:50
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 13
+Membuat Tabel, Model dan Controller Checkout	10:44
+Menampilkan Halaman Checkout dan Data Keranjang	09:56
+Membuat Fungsi Tambah Order	13:45
+Implementasi Tambah Order dan Menampilkan Halaman Success	09:04
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 14
+Menampilkan Halaman Order Pengguna	07:12
+Menampilkan Data Order pada Halaman My Order	09:25
+Menampilkan Data Detail Order	14:40
+Membuat Tabel dan Model Konfirmasi Order	08:06
+Membuat Fungsi Konfirmasi	09:21
+Membuat Halaman Formulir Konfirmasi	12:08
+Menampilkan Data Konfirmasi Order	08:00
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 15
+Menampilkan Data Order	09:44
+Menampilkan Data Detail Order	08:59
+Membuat Fungsi Update Status Order	08:09
+Membuat Fungsi Pencarian Data Order	06:18
+Kuis - Membangun Website Toko Online Berbasis CodeIgniter - Topik 16
+
+59. Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway:
+Apa yang akan kita buat	02:39
+Persiapan Project	06:33
+Mengenal Livewire	09:11
+Kuis - Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway - Topik 1
+Menampilkan Data Produk dengan Paginate di Livewire	10:12
+Membuat Index Paginate Menjadi Dinamis	04:53
+Membuat Fitur Pencarian Data di Livewire	08:32
+Membuat Form Create Product	10:39
+Menyimpan Data Product Secara Realtime	08:53
+Menambahkan Validasi Input di Livewire	05:44
+Menampilkan Notifikasi	03:21
+Membuat Fungsi Upload File di Livewire	09:13
+Membuat Form Update Product	08:23
+Membuat Fungsi Update Product	03:55
+Membuat Fungsi Delete Product	11:11
+Kuis - Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway - Topik 2
+Membuat Halaman Daftar Product	09:06
+Membuat Helper Shopping Cart	09:46
+Cara Membuat Facade di Laravel	04:17
+Implementasi Fungsi Add To Cart	08:31
+Kuis - Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway - Topik 3
+Membuat Halaman Shopping Cart	07:11
+Membuat Fungsi Remove Product	03:36
+Membuat Komponen Livewire untuk Checkout	04:50
+Menampilkan Halaman Checkout Beserta Validasinya	07:58
+Kuis - Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway - Topik 4
+Installasi dan Konfigurasi Payment Gateway di Laravel	04:44
+Implementasi Payment Gateway Midtrans	13:01
+Menginstall Turbolinks untuk SPA	05:28
+Kuis - Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway - Topik 5
+
+60. Membangun Aplikasi Cek Ongkir Menggunakan Laravel:
+Membangun Website Cek Ongkir	01:59
+Persiapan Model Migration Project	05:17
+Import Data Seed Menggunakan File JSON	06:18
+Membuat Halaman Homepage Cek Ongkir	07:00
+Membuat Fungsi Dependent Dropdown	07:18
+Cara Menggunakan Laravel Mix	07:33
+Kuis - Membangun Aplikasi Cek Ongkir Menggunakan Laravel - 1	
+Menginstall Libary Select2 dengan NPM dan Laravel Mix	03:56
+Implementasi Select2 untuk Pencarian Realtime	08:59
+Menampilkan Data Courier dan Aktifkan Form	07:36
+Menginstall Package Rajaongkir	08:47
+Menampilkan Data Ongkir	11:25
+Kuis - Membangun Aplikasi Cek Ongkir Menggunakan Laravel - 2
+
+61. Filament untuk Pemula: Laravel Admin Tanpa Pusing:Filament Laravel Admin, Ingin membuat panel admin Laravel tanpa perlu bikin semuanya dari nol? Kursus ini akan membimbing kamu membangun admin panel yang powerful, cepat, dan modern menggunakan Filament, sebuah plugin Laravel yang ringan dan elegan.
+
+Tanpa perlu pusing ngoding frontend, kamu akan belajar:
+
+Instalasi dan setup Filament dalam proyek Laravel
+Membuat CRUD hanya dalam hitungan menit
+Mengelola relasi antar tabel dengan cara yang simpel
+Membuat form dan tabel dinamis
+Menambahkan fitur seperti autentikasi, notifikasi, hingga upload file 1:01:55
+
+Back End Basic - JS
+62. Belajar Dasar Node.js dan NPM:
+Perkenalan Apa Itu Node.Js	06:44
+Hal Yang Bisa Dilakukan Node.Js	05:58
+Cara Install Node.Js	02:30
+Berinteraksi Dengan Repl Milik Node.Js	04:47
+Menjalankan File Javascript Dengan Node.Js	04:13
+Memperlajari Object Process Dan Args Pada Node.Js	10:54
+Latihan Menggunakan Modul Filesystem Node.Js	13:42
+Bekerja Dengan Module Exports Di Node.Js	10:06
+Cara Lain Memanggil File Javascript Dengan Require	05:31
+Apa Itu Npm	02:47
+Cara Menginstall Package Dan Menggunakannya	08:15
+Menggunakan Global Package	04:04
+Pentingnya File Package.Json	07:11
+Cara Menginstall Package Dari Package.Json	05:26
+Latihan Membuat Project Berbasis Node.Js Dengan Package Npm	14:49
+
+63. Belajar Dasar Express.js:
+Belajar Dasar Express.js	06:11
+Membuat Aplikasi Dengan Express.Js Pertama Kali	07:43
+Mengenal Object Request Dan Response	05:36
+Membuat Route Untuk Menentukan Response Tertentu	09:17
+Mempelajari Route Parameter Di Express.Js	08:00
+Mendapatkan Nilai Dari Query String	05:50
+Otomatis Restart Project Node.Js Dengan Nodemon	02:55
+
+64. Belajar MongoDB:
+Perkenalan Database Dan Mongodb	03:50
+Perbedaan Database Sql Dan Nosql	06:39
+Kenapa Belajar Mongodb	05:32
+Cara Install Mongodb	06:07
+Cara Menjalankan Mongodb Dan Menggunakan Mongo Shell	05:36
+Apa Itu Bson	05:50
+Perintah Insert Di Mongodb	05:23
+Perintah Find Dan Findone Di Mongodb	09:02
+Perintah Updateone Dan Updatemany Di Mongodb	07:17
+Perintah Deleteone Dan Deletemany Di Mongodb	04:40
+Beberapa Query Operator Yang Perlu Kamu Coba	08:40
+
+65. Belajar Menggunakan MongoDB di JavaScript:
+Apa Itu Mongoose	02:44
+Menghubungkan Mongoose Ke Mongodb	04:41
+Membuat Skema Dan Model Mongoose	09:04
+Menggunakan Insertmany Di Mongoose	03:14
+Menampilkan Data Dengan Mongoose	07:26
+Mengubah Data Berdasarkan Filter Atau Id Dengan Mongoose	08:39
+Menghapus Data Berdasarkan Filter Atau Id Dengan Mongoose	05:07
+Menambahkan Validasi Di Schema	08:11
+Membuat Schema Dengan Berbagai Jenis Data	05:43
+Mengaktifkan Validasi Pada Saat Update Data	05:17
+Mengubah Pesan Error Validasi Schema	02:38
+Membuat Custom Method Untuk Model Dari Schema	05:30
+Membuat Method Static Untuk Model	04:33
+Membuat Virtual Property Di Mongoose	05:13
+Mempelajari Middleware Di Mongoose	06:26
+
+66. Belajar Relasi Data di MongoDB (Database Relationship):
+Pengantar Database Relationship	03:26
+Bagaimana Sql Relationship Bekerja	06:35
+Relasi Data One To Few	08:32
+Relasi Data One To Many	10:26
+Menampilkan Data Turunan Dari Relasi One To Many	07:03
+Relasi Data One To Squillion	08:00
+Panduan Untuk Membuat Relasi Entitas Di Mongodb	09:03
+
+67. Belajar Membuat Halaman Web Dinamis dengan Express.js dan EJS:
+Mengenal Templating	06:09
+Konfigurasi Template Engine Ejs Di Express.Js	06:51
+Menggatur Posisi Folder Views Agar Tidak Error	04:12
+Mengenal Interpolation Syntax Ejs	03:31
+Passing Data Ke Template	04:02
+Demo Passing Data Mirip Halaman Tag Dev.To	04:13
+Cara Menggunakan If Di Dalam Ejs	05:25
+Cara Menggunakan Perulangan Di Ejs	04:06
+Latihan Menampilkan Data Dari Query Ke Template Ejs	09:53
+Membuat Static Folder Untuk Assets Web	05:35
+Implementasi Bootstrap Css Dengan Express.Js	07:08
+Layouting Dengan Ejs Di Express.Js	07:21
+
+68. Belajar Membuat Project Express.js Dengan MongoDB:
+Persiapan Project Express MongoDB	05:06
+Membuat Model dan Seed untuk Data Sample	07:20
+Membuat Restful Index Product	04:12
+Membuat Restful Detail Product	04:46
+Menyiapkan Form Untuk Menyimpan Data Produk	05:32
+Membuat Restful Save Product	04:00
+Menyiapkan Form Untuk Edit Product	04:37
+Membuat Restful Update Product	04:39
+Membuat Restful Delete Product	02:48
+Membuat Filter Data Produk Beradasarkan Kategori	06:01
+
+Back End Intermediate - JS
+69. Belajar Membangun Aplikasi Studi Kasus Directory Listing App Dengan Express Js:
+Pengenalan Dan Persiapan Project Bestpoint	05:53
+Membuat Model Place Dan Contoh Datanya	06:34
+Menyiapkan Data Dummy Dengan Seeds	03:30
+Membuat Halaman Index Untuk Model Places Dan Menapilkan Datanya	02:48
+Membuat Halaman Show Model Place Dan Menampilkan Data Detailnya	03:56
+Membuat Halaman Create Dan Menyimpan Data Place Di Db	06:12
+Membuat Halaman Edit Place Dan Mengubah Datanya	07:11
+Membuat Fungsi Delete Dan Menghapus Data Place	03:57
+Layouting Lebih Mudah Dengan Ejs-Mate	06:47
+Setup Bootstrap Css Agar Tampilan Lebih Menarik	04:25
+Menambahkan Navigasi Secara Terpisah	06:07
+Implementasi Flex Di Bootstrap	05:32
+Memanfaatkan Api Unsplash Untuk Tampilkan Gambar	05:24
+Mempercantik Halaman Index Place	05:02
+Percantik Halaman Create Place & Input Image	05:35
+Percantik Halaman Form Edit Place	03:05
+Mempercantik Halaman Show Place	05:36
+Membuat Validasi Input Client Side	06:13
+Membuat Middleware Generic Error	04:20
+Membuat Error Handler Untuk Mengatasi Error Async	04:04
+Membuat Error Handler Generic Beserta Tampilannya	06:22
+Membuat Validasi Input Di Server Side	08:50
+Membuat Middleware Untuk Validasi Inputan	06:05
+Membuat Model Review Beserta Relasinya	03:36
+Membuat Form Untuk Review	04:17
+Menyimpan Data Review Dengan Relasinya	06:55
+Membuat Validasi Data Review	07:14
+Menampilkan Data Review Di Halaman Show Place	03:48
+Menghapus Data Review Beserta Relasinya	06:29
+Menghapus Data Parent Place Beserta Data Child Review	04:23
+Memisahkan Route Milik Modul Place	04:46
+Memisahkan Route Untuk Modul Review	06:46
+Membuat Folder Static Untuk Asset	03:58
+Setup Session Untuk Flash Message Dan Auth Nanti	04:09
+Implementasi Flash Session Untuk Notifikasi	06:02
+Menampilkan Flash Message Success Dengan Alert	06:14
+Membuat Middleware Validasi Id Untuk Findbyid	06:17
+Menampilkan Flash Message Untuk Error Data Tidak Ditemukan	03:50
+Mengenal Library Passportjs Untuk Proses Auth	05:56
+Setup Passport Local Dan Demo Register	09:08
+Membuat Route Halaman Dan Form Register	05:59
+Membuat Fungsi Register	03:28
+Membuat Halaman Login Beserta Fungsinya	06:33
+Membuat Middleware Cek User Sudah Login Atau Belum	06:13
+Membuat Link Untuk Login Register Dan Fungsi Logout	05:47
+Membuat Helper Untuk Mendapatkan Data User Setelah Login	05:02
+Membuat Flow Auto Login Setelah Register	03:36
+Menambahkan Author Atau Pemiliki Data Place	05:40
+Menampilkan Tombol Edit Dan Delete Sesuai Pemilik Data	03:42
+Membuat Validasi Permission Dari Sebuah Data	04:03
+Membuat Middleware Untuk Cek Permission	05:03
+Menambahkan Author Atau Pemiliki Data Review	05:03
+Membuat Validasi User Dan Permission Untuk Review	07:33
+Memisahkan Logic Dan Route Dengan Controller	07:16
+Memisahkan Logic Dan Route Review Juga Auth	06:21
+Tips Meringkas Route Dengan Baik	04:39
+Memisahkan Validasi Input Dengan Middleware	04:49
+Menampilkan Nilai Rating Dengan Bintang	05:12
+Mengubah Inputan Range Dengan Bintang	04:15
+Setup Multer Middleware Untuk Bisa Upload File	05:21
+Cara Mendapatkan Data File Dan Lanjut Upload	05:35
+Upload Gambar Dan Simpan Di Database	07:27
+Menampilkan Gambar Dengan Carousel Bootstrap	06:28
+Cara Update Data Place Beserta Gambarnya	07:37
+Menghapus Data Place Beserta Gambarnya	03:33
+Membuat Checkbox Hapus Beberapa Gambar	07:54
+Proses Hapus Beberapa Gambar Di Backendnya	06:23
+Memperbaiki Gambar Di Index Place Dan Data Seeder	04:30
+Registrasi Akun Here Maps	08:21
+Membuat Helper Utils Here Maps	08:45
+Menyimpan Data Geojson Dari Place Di Mongodb	10:18
+Menampilkan Media Peta Di Halaman Show Place	06:21
+Menampilkan Titik Lokasi Place Dengan Map Yg Interaktif	06:18
+Menambahkan Info Bubble Pada Titik Lokasi	06:03
+Bugfix Gambar Pada Index Place Dan Show Juga Perbaikan Data Seed	07:04
+Implementasi Update Data Location Dan Geometry Pada Data Place	02:51
+Menambahkan Peta Klaster Dari Data Place	10:38
+Membuat Landing Page Untuk Halaman Home Project	09:38
+
+70. Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart:
+Jago Fullstack MEVN dengan Studi Kasus Shopping Cart	02:46
+Persiapan Software Yang Dibutuhkan	02:16
+Installasi Vue Cli Dan Project	04:54
+Membuat Halaman Yang Dibutuhkan Vuestore	11:00
+Menampilkan Data Product Dari JSON	11:42
+Menampilkan Data Produk Berdasarkan Id	10:37
+Menampilkan Data Produk Di Shopping Cart	07:49
+Menambahkan Navbar	06:15
+Memberikan Halaman Error 404	05:37
+Membuat Reusable Component dan Props	10:37
+MEVN Shopping Cart - 01 Menyiapkan Project Backend MEVN	12:29
+Membuat Config dan Model Product	08:23
+Menambahkan Data Dummy di MongoDB	02:49
+Menampilkan Data Products melalu API	07:30
+Menampilkan Data Order dan Productnya	10:41
+Menambahkan Item Product pada Orders	08:50
+Menghapus Data Cart Items pada Collection Orders	04:17
+Menambahkan Path URL untuk Memanggil File gambar	04:38
+Membuat Endpoint untuk Mendapatkan Satu Data Product	02:28
+Menampilkan Data Produk dari Server	08:20
+Menampilkan Detail Produk dari Server	05:24
+Menampilkan Data Orders Shopping Cart	07:54
+Menambahkan Product Baru dalam Order	07:36
+Menghapus Product dari Order	10:05
+
+71. Implementasi Middleware pada Express.js:
+Apa Itu Middleware	02:59
+Cara Menggunakan Middleware	06:17
+Cara Membuat Middleware Sendiri Di Express.Js	03:11
+Mempraktekkan Middleware Lebih Lanjut	04:32
+Menampilkan Halaman Not Found Dengan Middleware	03:11
+Contoh Logic Middleware Authentication	03:11
+Menggunakan Middleware Pada Route Tertentu Saja	03:27
+
+72. Implementasi Error Handler di Express.js dan Mongoose:
+Memahami Kenapa Perlu Error Handling	05:03
+Membuat Fungsi Error Handler Sendiri	05:00
+Membuat Object Error Class Sendiri	09:48
+Error Handling Di Async Function	08:16
+Membuat Helper Error Async Function	06:09
+Cara Membedakan Error Dari Mongoose Atau Js Biasa	07:03
+
+73. Implementasi Relasi Database MongoDB di Express, Mongoose:
+Membuat Model Untuk Contoh Pabrik Dan Produknya	05:08
+Membuat Halaman Index Dan Buat Data Pabrik	06:19
+Menampilkan Data Pabrik Dan Tampilannya	03:44
+Menyimpan Sebuah Data Produk Ke Model Pabrik	07:17
+Menampilkan Data Produk Di Tampilkan Detail Pabrik	05:50
+Menampilkan Data Pabrik Di Halaman Detail Produk	02:45
+Memanfaatkan Middleware Schema Untuk Menghapus Data	06:06
+
+74. Manajemen Hot Data dengan Session di Express.js:
+Mengenal Session	03:11
+Implementasi Session Di Express.Js	06:27
+Contoh Lain Penggunaan Session	03:42
+Implementasi Session Flash	06:12
+Cara Mudah Memanggil Flash Session Di Seluruh Halaman	03:37
+
+75. Manajemen Route dan Cookies di Express.js:
+Memisahkan Routes Dari File Index	06:37
+Implementasi Middleware Di Route Yg Terpisah	03:46
+Mengenal Fungsi Cookies	06:02
+Implementasi Cookies Di Express.Js	04:14
+Mendapatkan Data Cookies Dari Client Di Express.Js	04:22
+Membuat Signed Cookie Atau Cookie Yg Disegel	04:58
+Sembunyikan Data Cookies Dengan Hmac Jika Perlu	04:43
+
+76. Belajar Konsep Auth dan Implementasi di Express.js:
+Memahami Perbedaan Authentication Dan Authorization	03:56
+(Bukan) Cara Terbaik Simpan Password	04:18
+Syarat Kriptografi Yang Aman Untuk Password	05:35
+Mengenal Cara Kerja Salt Untuk Hash	06:09
+Mengenal Cara Kerja Bcrypt Untuk Hash Password	11:25
+Persiapan Auth Dengan Membuat Model Dan Halaman Register	06:57
+Cara Menyimpan Data Registrasi Dengan Bcrypt	04:58
+Implementasi Fungi Login Dengan Bcrypt	06:19
+Menyimpan Data Auth Dengan Session	06:09
+Implementasi Logout Dengan Menghapus Session	04:28
+Membuat Middleware Untuk Halaman Wajib Login	04:40
+Refactor Fungsi Bcrypt Register Dan Login	08:05
+
+77. Belajar Menguasai Nest Js, Framework Javascript Populer:
+Apa Itu Nest.Js Dan Setup Awal	05:41
+Penjelasan Library Yg Dibutuhkan Dan Setup Typescript	04:34
+Cara Membuat Controller Di Nest.Js	05:15
+Menjalankan Project Nest.Js	04:36
+Aturan Main (Naming Convention) Nest.Js	06:18
+Menentukan Route Pada Controller	03:52
+Menggunakan Nest Cli Untuk Project Todo App	05:54
+Membuat File Module Dengan Nest Cli	06:30
+Membuat File Controller Dengan Nest Cli	03:20
+Cara Mendefinisikan Route Di Sebuah Controller	04:17
+Mengenal Software Untuk Mencoba Berbagai Method Http	03:34
+Mendapatkan Data Yang Dikirim Dalam Request	06:54
+Mengenal Cara Kerja Pipe Di Nest.Js	03:44
+Implementasi Validasi Data Request Beserta Aturannya	06:52
+Cara Kerja Validation Pipe	05:54
+Bagaimana Parameter Menyajikan Data Sesuai Dengan Type Nya	07:09
+Mengenal Service Dan Repository Di Nestjs	05:07
+Membuat Repository Beserta Methodnya	05:15
+Melanjutkan Method Pada Repository	04:22
+Membuat Service Untuk Memanggil Repository	03:51
+Implementasi Service Dan Repository Melalui Controller	07:54
+Menampilkan Pesan Error Dengan Exception	05:45
+Memahami Prinsip Inversion Of Control	07:09
+Sebelum Menggunakan Dependency Injection	06:38
+Implementasi Dependency Injection	07:05
+Project Yang Akan Kita Buat	03:44
+Buat Project Nest Dan Generate Modul-Modulnya	05:54
+Dependency Injection Antar Modul	04:33
+Memanggil Method Dari Lain Modul	04:47
+Menjalankan Banyak Modul Dalam Satu Controller	05:47
+Menguasai Nest.Js Dengan Studi Kasus	03:26
+Persiapan Project Dan Desain Api	03:58
+Merancang Module Yang Dibutuhkan	04:46
+Generate Module Yang Dibutuhkan Dalam Project Nest	03:24
+Persiapan Database Yang Akan Digunakan	03:59
+Setup Koneksi Database	06:13
+Membuat Entitas Dengan Typeorm	04:44
+Melihat Isi Database Dari Hasil Membuat Entitas	06:44
+Mengenal Cara Kerja Typeorm Beserta Decoratornya	06:46
+Catatan Tentang Repository Pada Nest	03:52
+Membuat Method Controller Untuk Create User Dan Validasinya	06:25
+Proses Menyimpan Data User Melalui Service Dan Repository	07:10
+Alur Kerja Logic Yang Sudah Dibuat	05:29
+Mengenal Method-Method Hook Di Nest	03:57
+Membuat Method Service Untuk Mendapatkan Data User	05:01
+Membuat Method Service Untuk Memperbarui Data User	06:38
+Membuat Method Service Untuk Menghapus Data User	03:41
+Mencari Data Berdasarkan Paramter Dan Query Di Database	06:46
+Menghapus Data Yang Ada Di Database	04:09
+Mengubah Data Yang Ada Di Database	05:49
+Catatan Tentang Error Handling Dengan Exception	04:08
+Cara Memilih Properti Entitas Yang Muncul Pada Response	05:50
+Solusi Yang Direkomendasikan Untuk Mengubah Data Response	03:55
+Mengenal Interceptor Di Nest.Js	10:35
+Mengurai Data Response Melalui Dto Pada Interceptor	04:58
+Membuat Dto Pada Interceptor Menjadi Dimanis	03:37
+Refactor Dekorator Untuk Interceptor	04:39
+Menggunakan Interceptor Secara Global Di Controller	04:06
+Improve Type Safety Pada Serialize Interceptor	04:53
+Memahami Cara Kerja Auth Di Nest.Js Yg Akan Dibuat	04:57
+Setup Modul Dan Service Untuk Auth	04:14
+Fungsi Registrasi Dan Cara Mengamankan Password	07:24
+Membuat Salt Dan Melakukan Hash Untuk Password	06:06
+Menyimpan Data User Dengan Password Sudah Dihashed	05:46
+Membuat Service Proses Login	08:04
+Setup Session Dan Cara Kerja Cookie	04:51
+Contoh Menggunakan Session	06:27
+Implementasi Register Dan Login Dengan Session	05:05
+Implementasi Logout Dengan Menghapus Session	04:34
+Memisahkan Modul Auth Dari Modul User	08:31
+Membuat Custom Decorator Untuk Current User	05:13
+Persiapan Decorator Dan Interceptor Untuk Current User	08:43
+Cara Menghubungkan Interceptor Ke Dependency Injection	04:31
+Membuat Interceptor Menjadi Global	04:38
+Mencegah Request Masuk Tanpa Otentikasi	05:33
+Perkenalan Unit Testing	06:21
+Setup Awal File Unit Test	10:06
+Menguji Method Register Di Auth Service Harus Bekerja Dengan Benar	06:27
+Menguji Muncul Pesan Error Saat Registrasi Email Yg Sama	04:54
+Menguji Muncul Pesan Error Saat Login Dengan Invalid Email	03:18
+Menguji Saat Password Salah Dan Berhasil Login	05:30
+Refactor Mock Data Untuk Auth Service	05:05
+Implementasi Mock Data Dari Refactor Sebelumnya	04:00
+Setup Mock Unit Testing Auth Controller	06:54
+Menguji Method Login Berhasil Di Auth Controller	06:58
+Mengenal Integration Testing Atau E2e	07:23
+Langkah Awal Membuat File E2e Test	07:06
+Perbaiki Setup Integration Test Modul Auth	05:37
+Cara Lain Implementasi Pipe Dan Middleware Secara Global	06:43
+Setup Env Variable Untuk Project Nest	06:22
+Perbaiki Error Database Khusus Untuk Test	06:32
+Menguji Fungsi Register Kemudian Login Secara E2e	04:45
+Menyiapkan Request Handler Item Dengan Dto-Nya	04:38
+Menerapkan Validator Pada Item Dto	03:39
+Membuat Service Create Item	05:38
+Penjelasan Jenis-Jenis Relasi Database	07:05
+Setup Relasi Onetomany Pada Entitas Dengan Typeorm	06:37
+Menyimpan Data Item Beserta Usernya	05:37
+Mengubah Response Create Item Dengan Class-Transform	05:42
+Persiapan Approve Data Item Dari Admin	05:46
+Mencoba Membuat Data Item Dengan Status Approved False	06:30
+Mengenal Perbedaan Authentication Dengan Authorization Dulu	05:20
+Menyiapkan User Admin Dan Middleware Role Admin	06:38
+Membuat Middleware Current User	07:32
+Menerapkan Current User Middleware	03:58
+Persiapan Api Endpoint Item Dengan Query Builder	05:26
+Menggunakan Query Builder Di Typeorm	04:19
+Menambahkan Query Builder Dengan Query Parameter	05:35
+Menerapkan Opsional Pada Dto Dan Menerapkan Query Operator Like	04:56
+
+78. Membangun Website Modern dengan NextJS, Studi Kasus Headless CMS:
+Pengenalan Next.Js Beserta Jenisnya	06:14
+Apa Saja Yang Akan Dipelajari Dan Pengenalan Project	06:30
+Cara Setup Project Next.Js Dari Awal	09:05
+Cara Membuat Halaman Web	05:40
+Cara Menggunakan Typescript Di Project Next.Js	05:21
+Cara Membuat Url Atau Memetakan Route Halaman	05:12
+Latihan Menambahkan Route Halaman	04:16
+Fitur Nested Layout Pada App Router	04:36
+Mengenal Server Rendering Di Next.Js	06:06
+Perbedaan Server Component Dan Client Component	05:24
+Menjalankan Project Next.Js Mode Production	06:16
+Menggunakan Component Link Untuk Tautan	05:11
+Mengenal Prefetch Di Next.Js	04:59
+Latihan Navigasi Dan Fungsi Layout	04:15
+Teknik Styling Di Next.Js	07:01
+Install Tailwindcss Dan Konfigurasinya	05:36
+Latihan Styling Layout	07:36
+Memanfaatkan Color Pallete Tailwindcss	05:01
+Membuat Component Reusable Di Next.Js	04:40
+Memanfaatkan Import Alias Untuk Perpendek Path	04:06
+Menggunakan Static Assets	04:32
+Membuat Card Post List	05:46
+Mengubah Post Card List Menjadi Component	04:09
+Cara Terbaik Menggunakan Font Di Next.Js	05:30
+Menggunakan Font Variable Dengan Tailwindcss	04:50
+Cara Membaca File Markdown Di Next.Js	04:52
+Menampilkan Data Markdown Pada Component	04:10
+Menampilkan Style Markdown Yang Sesuai Dengan Tailwindcss	03:50
+Mengenal Data Meta Dari Markdown - Front-Matter	04:55
+Memisahkan Layer Data Dengan Layer Ui	04:58
+Membuat Route Dinamis Untuk Post	04:06
+Membuat Fungsi Untuk Mendapatkan List Content Post	06:02
+Menampilkan Data Post Pada Halaman Blog	03:40
+Menambahkan Data Deskripsi Dan Cara Mendapatkan Link Sebuah Post	02:54
+Cara Menggunakan Meta Data Untuk Seo Di Next.Js	05:51
+Template Meta Data Agar Title Menjadi Dinamis Setiap Halaman	03:57
+Membuat Metadata Lebih Dinamis Untuk Seo Friendly	03:18
+Menambahkan Favicon Dan Metadata Lainnya	04:19
+Membuat Component Client Untuk Share Link	06:16
+Membuat Fungsi Copy Link Dengan Client Component	05:59
+Percantik Halaman Web Dengan Icon Berbasis Tailwindcss	03:35
+Persiapan Deploy Project Next.Js	04:23
+Deploy Project Next.Js Di Vercel	04:25
+Persiapan Deploy Static Page Next.Js	04:10
+Deploy Project Static Page Next.Js Di Self Hosting	04:33
+Mengenal Teknologi Headless Cms	04:15
+Persiapan Headless Cms Untuk Membuat Konten	08:19
+Cara Mendapatkan Data Dari Strapi Di Next.Js	07:02
+Menentukan Data Response Dari Strapi Dengan Parameter	06:02
+Persiapan Menampilkan Data List Post Dari Strapi	04:22
+Mendapatkan Gambar Dan Data Lainnya Dari Strapi	04:21
+Cara Mendapatkan Satu Data Dari Strapi Berdasarkan Slug	04:07
+Menampilkan Single Post Dari Strapi	04:25
+Refactor Kode Fetch Data Post Dari Strapi	06:19
+Mendapatkand Data Slug Untuk Digenerate Static Page	05:23
+Setup Eslint Untuk Menjaga Kualitas Kode Program	05:37
+Menggunakan Image Component Dari Next	05:00
+Proses Konversi File Gambar Dengan Component Image	04:29
+Mengenal Fungsi Dynamic Parameter	05:26
+Mengenal Fungsi Force Dynamic Pada Component	04:34
+Menampilkan Halaman Not Found	03:49
+Mengenal Fungsi Revalidate Untuk Fetch Data	04:16
+Menggunakan Force Update Dan Revalidate Di Fetch	04:36
+Menyiapkan Jalan Untuk Webhook Konten Dari Cms	07:16
+Menggunakan On Demand Revalidation	05:33
+Mendapatkan Data Dari Query Parameter Untuk Pagination	07:29
+Menggunakan Parameter Pagination Strapi	04:24
+Mendapatkan Nilai Total Halaman Dari Pagination	03:54
+Memisahkan Component Pagination Dan Logic Batas Page	06:21
+
+79. Menguasai Nuxt.js dan Tailwindcss dengan 2 Project:
+Kenapa Harus Vue.Js Dulu	04:42
+Alasan Kenapa Kamu Perlu Menggunakan Nuxt.Js	07:33
+Penjelasan Client-Server Dan Universal Rendering	07:08
+Apa Yang Bisa Dibuat Dengan Nuxt.Js	04:14
+Melihat Contoh Project Pertama - Portfolio Online	02:48
+Install Nuxt Dan Devtools Di Dalamnya	06:30
+Mengenal Standar Folder Dan File Di Project Nuxt	10:27
+Cara Membuat Halaman Dan Route Berbasis File	03:06
+Cara Berpindah Halaman Di Nuxt.Js	04:33
+Cara Menambahkan Parameter Route Di Pages	05:53
+Menentukan Layout Halaman Di Nuxt	05:14
+Menggunakan Layout Yang Berbeda Pada Setiap Page	03:52
+Nuxt Modules Dan Cara Install Tailwindcss Di Nuxt	03:03
+Styling Layout Dengan Tailwindcss	07:12
+Menggunakan Component Terpisah Di Nuxt	03:33
+Cara Mengubah Informasi Pada Bagian Head Di Nuxt	05:38
+Cara Konfigurasi Seo Page Di Nuxt	04:23
+Mengenal Data Fetching Di Nuxt	06:16
+Mengenal Data Fetching Dengan Usefetch	03:44
+Membuat Component Untuk Daftar Project	05:52
+Melakukan Filter Dan Sorting Data Dari Api	06:42
+Dark Mode Di Nuxt.Js Dengan Tailwindcss	03:58
+Membuat Toggle Mode Tema Website	07:38
+Menggunakan Nuxt Content Untuk Menampilkan Isi Markdown	04:57
+Menggunakan Prose Untuk Menampilkan Style Markdown	04:49
+Mengisikan Meta Tag Dari Content Markdown Dengan Front-Matter	04:51
+Menggunakan Markdown Untuk Content Suatu Page	03:58
+Menampilkan Highlight Pada Konten Yang Berisi Kode	04:29
+Cara Mendapatkan Daftar Content Dengan Query	06:37
+Filtering Daftar Konten Dan Memuat Asset Gambar	04:11
+Memanggil Component Melalui File Markdown	05:36
+Memanggil Component Melalui File Markdown	04:36
+Mengelompokkan Konten Blog Berdasarkan Tanggal	07:26
+Challange - Mengubah Konten Project Menggunakan Markdown	04:31
+Persiapan Untuk Menampilkan Table Of Content Dari Markdown	04:40
+Menampilkan Table Of Content Dari Markdown	07:31
+Menambahkan Logic Untuk Show Dan Hide Table Of Content	03:38
+Perbaiki Styling Layout Dan Header Project	04:06
+Membuat Scroll Table Of Content Lebih Smooth	04:10
+Menambahkan Style Indikator Aktif Dari Toc	07:39
+Membuat Desain Halaman Error Di Nuxt	05:27
+Menambahkan Efek Transisi Ketika Berpindah Halaman	05:03
+Menggunakan Reusable Component Content Pada Home Page	06:58
+Mengubah Desain Project Menjadi Responsive	05:07
+Generate Sitemap Agar Seo Friendly	06:38
+Memulai Project Finance Tracker Dan Mengenal Teknologinya	05:25
+Persiapan Layout Untuk Project Finance Tracker	05:09
+Membuat Homepage Dan Header Avatar	04:29
+Membuat Halaman Rangkuman Dengan Component Periode	05:47
+Tren Kas Component - Desain Responsive	04:44
+Tren Kas Component - Membuat Loading Spinner Dan Icon Nuxt Ui	09:23
+Tren Kas Component - Membuat Logic Trend Untuk Warna Dan Icon	04:05
+Tren Kas Component - Membuat Logic Percentage Perbandingan	04:05
+Membuat Helper Currency Dengan Composable	05:31
+Transaction Component - Daftar Transaksi	05:27
+Transaction Component - Currency Dan Action Button	04:17
+Cara Membuat Project Supabase	03:47
+Menghubungkan Nuxt Dengan Supabase	06:00
+Cara Membuat Tabel Database Di Supabase	07:26
+Cara Mendapatkan Data Dari Supabase Melalui Nuxt	06:37
+Menampilkan Data Ke Component Transaction	04:41
+Menentukan Icon Dan Warna Transaction Sesuai Tipe	04:30
+Membuat Logic Mengelompokkan Transaksi Berdasarkan Tanggal	04:22
+Membuat Component Untuk Total Transaksi Perhari	03:50
+Menampilkan Total Transaksi Perhari Beserta Detailnya	03:34
+Menghapus Data Transaction Dan Membuat Notifikasi	06:07
+Memperbarui Tampilan Transaksi Setelah Hapus Dengan Emit	06:07
+Menambahkan Effect Loading Pada Saat Hapus Dan Fetch Data	04:44
+Mendapatkan Nilai Total Transaksi Income Dan Expense	03:33
+Implementasi Component Modal Untuk Form Transaction	06:23
+Memindahkan Component Modal Pada File Terpisah	04:59
+Desain Form Transaction	06:18
+Membuat State Untuk Menyimpan Data Transaksi Dari Form	03:55
+Menambahkan Rules Validation Pada Form	06:51
+Membuat Logic Clear Form Dan Close Modal	05:01
+Menyimpan Data Dari Form Ke Supabasel	06:00
+Refactor Logic Fetch Transaction Ke Composable	07:23
+Membuat Logic Time Period Transaction	06:34
+Mendapatkan Data Transaksi Berdasarkan Period	06:59
+Mendapatkan Nilai Transaksi Sebelumnya Dan Perbaikan Component Trend	07:50
+
+80. Belajar Membangun RESTful dengan Adonis.js:
+Cara Install Dan Jalankan Project Adonis	07:28
+Konfigurasi Database Dengan Menggunakan Mysql	05:01
+Membuat Model, Skema Tabel Dan Dummy Data Di Adonis	08:11
+Setup Modul Authentication Berbasis Token	06:51
+Membuat Api Endpoint Untuk Register	09:16
+Membuat Api Endpoint Untuk Login	04:00
+Membuat Model Thread Dan Relasinya	06:31
+Menyimpan Data Thread Beserta Data Relasinya	08:51
+Menampilkan Data Thread Beserta Relasinya Berdasarkan Id	05:23
+Menampilkan Seluruh Thread Beserta Relasinya	03:44
+Mengubah Data Thread Dan Menampilkan Hasilnya	05:06
+Menghapus Data Thread Berdasarkan Id	03:45
+Menambahkan Permission Sebelum Update Atau Delete	04:25
+Membuat Model Untuk Reply Thread	03:54
+Membuat Rest Untuk Create Data Reply Dan Tampilkan	05:55
+Membuat Data Seeder Lebih Banyak Dengan Factory	10:54
+Menggunakan Method Paginate Untuk Membagi Data Yang Didapatkan	05:40
+Filtering Data Secara Dinamis Dengan Query Paramter	04:51
+Mengurutkan Data Secara Dinamis Dengan Query Parameter	06:08
+Refactoring Route Agar Lebih Ringkas	06:08
+Error Handling Dengan Membuat Exceptionnya Sendiri	05:38
+
+81. Belajar RESTful dengan Express.js:
+Memahami Perbedaan Method Get Dan Post	08:19
+Mendefinisikan Route Get _ Post Di Express	07:12
+Melakukan Parsing Data Dari Body Request	06:11
+Sedikit Teori Tentang Rest	06:37
+Membuat Blueprint Api Endpoint Untuk Latihan Rest	03:16
+Restful Index Comments	05:38
+Latihan Restful Create Comments	06:15
+Menggunakan Respons Redirect Setelah Create Data	04:30
+Latihan Restful Show Comment	06:59
+Mengamankan Nilai Id Dengan Uuid	04:24
+Latihan Restful Update Comment	05:59
+Latihan Restful Menggunakan Method Patch Di Form Html	06:11
+Latihan Restful Menggunakan Method Delete Di Html	06:15
+
+Deployment
+82. Mengenal CLI di Linux dan praktek SSH:Selamat datang di kelas "Mengenal CLI di Linux dan Praktik SSH"! Hari ini, kita akan membuka gerbang ke dunia di balik antarmuka grafis yang biasa kita gunakan. Command Line Interface (CLI) adalah alat yang sangat powerful dan esensial bagi siapa pun yang serius dalam dunia IT. Di sini, kita akan belajar bagaimana berinteraksi langsung dengan sistem operasi Linux menggunakan perintah teks. Dari navigasi dasar hingga manipulasi file, Anda akan merasakan efisiensi dan fleksibilitas yang ditawarkan oleh CLI.
+ 43:26
+
+83.Belajar Setup VPS untuk pemula:2:10:45
+
+84. Mengenal Server NGINX:
+Kelas ini memperkenalkan NGINX sebagai web server populer yang cepat, ringan, dan andal. Peserta akan memahami fungsi dasar NGINX, cara kerjanya dalam melayani request, serta perannya sebagai reverse proxy dan load balancer. Cocok bagi pemula yang ingin mengenal fondasi server modern untuk mendukung aplikasi web.: 42:09
+
+85. Belajar Shared Hosting dengan cPanel:1:59:47
+
+86. Hosting Project di Netlify: 1:48:32
+
+87. Deploy Javascript Project di cPanel: 46:45
+
+88. Deploy Laravel Project, Setting SSL di VPS: 1:37:59
+
+89. Firebase Hosting: 1:30:22
+
+90. Github Pages & Gitlab Pages:1:18:06
+
+91. Hosting Project & Pointing Domain di Vercel: 1:26:16
+
+Software Testing
+92. Belajar Interface Testing menggunakan Selenium:
+Di kelas ini kamu akan belajar automation testing dengan Selenium. Fokusnya bukan cuma teori, tapi langsung praktik ngoding untuk membuat script otomatisasi yang bisa menjalankan berbagai skenario di web. Mulai dari login, klik tombol, isi form, sampai validasi hasilnya all dilakukan secara otomatis menggunakan Selenium.: 1:12:00
+
+Career Preparation
+93. Kode Etik Programmer dalam Lingkup Pekerjaan:1:14:03
+
+94. Membangun Personal Branding: 1:48:15
+
+95. Berbagi Ilmu Tentang Dunia Kerja IT: 20:39
+
+96. Strategi Karir Full Stack Web Developer: 2:01:32
+
+97. Belajar Freelance untuk Fullstack developer: 1:42:09
+
+98. English For Developer!:  1:38:40
+
+99. Belajar Interview Kerja!: 1:42:22
+
+
+Puluhan BONUS Kelas Live! Persembahan KelasFullstack
+
+100. Menjadi Seorang Front End Developer: 9:42
+101. Pengenalan KelasFullstack Web Developer: 10:04
+102. Sharing Pengetahuan Dunia Software Engineering: 10:47
+103. Mengupas Tuntas Bagaimana Fullstack Developer Bekerja: 14:46
+104. Mengenal Apa Itu HTML, CSS, JS: 15:56
+105. Berbagi Ilmu Tentang Dunia Kerja IT:20:40
+106. Berkenalan Dengan Tailwind CSS:1:31:39
+107. Belajar Bareng JavaScript:  1:45:21
+108. Ngobrolin Pemrograman Front End:  1:38:47
+109. Jalur belajar programming: 1:36:45
+110. Back End dan JavaScript: 53:37
+111. Review Tugas CSS Image Gallery:  1:56:30
+112. Back End dan JavaScript Lanjutan: 1:51:20
+113. Back End dan JavaScript Lanjutan: 1:51:20
+114. JavaScript dan CSS:1:46:18
+115. QnA Dunia Pemrograman Fullstack: 1:45:06
+116. Pembahasan Logic PHP & JavaScript:  2:01:11
+117. Freelance dan Portfolio: 2:01:11
+118. Tugas Membuat aplikasi Todolist: 1:46:16
+119. Web Design Figma & Live code dengan Mentor: 1:49:39
+120. Review Tugas aplikasi Todolist Lanjutan: 2:00:35
+121. Review Tugas Website: 1:53:16
+122. Review Tugas Project Website: 1:08:35
+123. Pengenalan Front End , Front of front / Back of front: 1:30:22
+124. Tugas Dan Review Project: 1:18:35
+125. Penggunaan Consume API di Front End: 1:35:35
+126. Ngobrolin Front End: 1:44:59
+127. QnA Time!: 1:53:19
+128. CSS Variable: 1:40:30
+129. Pengenalan ExpressJS: 2:06:45
+130. Hosting Cpanel: 1:59:47
+131. VPS / VM: 2:10:45
+132. VPS, Domain Setting dan DNS: 1:37:59
+133. Menghindari Kesalahan Umum dalam Pemrograman: 1:37:43
+134. Github Pages & Gitlab Pages:  1:18:06
+135. Strategi Karir Full Stack Web Developer: 2:01:32
+136. Jalur menjadi Freelancer untuk Fullstack developer: 1:42:09
+137. Firebase Hosting: 1:30:22
+138. Pengenalan Micro Service: 1:46:15
+139. Simple Project CRUD With Laravel - Live Code: 1:57:34
+140. Restful API With Laravel - Live Code:  2:17:23
+141. Belajar untuk persiapan Interview yuk!: 1:42:22
+142. Branding for Developer: 1:48:15
+143. Belajar SEO dari dasar!: 1:43:44
+144. Membuat API CRUD Menggunakan Express: 1:53:25
+145. Pengenalan Linux dan praktek membuat web server: 1:04:50
+146. Hosting Project di Netlify: 1:48:32
+147. English For Developer!: 1:38:40
+148. Hosting Project di Vercel: 1:26:16
+149. Laravel Authentification - Simple Project CRUD With Laravel: 1:38:18
+150. Mengenal CLI di Linux dan praktek SSH: 43:26
+151. Belajar Konsep API & Belajar Cara Menggunakan Tools API:  2:13:59
+152. Mengenal Server NGINX: 42:09
+153. Kode Etik Programmer dalam Lingkup Pekerjaan: 1:14:03
+154. Mastering Responsive Design: 1:39:51
+155. Mengenal dan Menginstallasi LEMP Stack: Mengenal dan Menginstallasi LEMP Stack
+156. Google Sheets as Backend: 1:40:59
+157. Mengenal Laradock sebagai Alternatif XAMPP:49:34
+158. Belajar Responsive Design Lanjutan: 43:28
+159. Mengelola Basis Data dengan MySQL: 43:14
+160. CSS Scroll Property: 50:41
+161. Mengenal Bahasa Pemograman PHP: 1:00:21
+162. Mengenal Bahasa Pemograman PHP 2: 29:28
+163. Berkenalan dengan GitHub: 55:15
+164. Secret of Inspect Element: 1:41:30
+165. Membuat Web App sederhana dengan React js: 1:46:51
+166. Mengenal Linkungan OS Windows untuk WebDev: 1:15:11
+167. Deploying JavaScript: 46:45
+168. Pelajari Dasar Slicing:1:43:37
+169. Apa Itu JavaScript: 43:39
+170. Pelajari Testing menggunakan Selenium: 1:12:00
+171. Pelajari Persiapan ke Dunia Kerja: 1:42:57
+172. Normalisasi Data: 50:48
+173. Personal Branding: 2:33:47
+174. Laravel 11 Introduction: 1:52:17
+175. Cara Memilih Tech Stack: 1:18:17
+176. Dasar Dasar SQL: 51:05
+177. Membangun Produk Sendiri dan Menjadi Technopreneur: 1:18:43
+178. Membangun Standar Kualitas & Kolaborasi:1:30:01
+179. Pengenalan code editor:  1:47:05
+180. Relationship di SQL: 36:55
+181. Build Team, Product & Release!: 1:13:32
+182. Solid Principle: 49:48
+183. REST API untuk pemula:1:10:30
+
+
+
+
+
+
